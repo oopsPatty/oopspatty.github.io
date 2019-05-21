@@ -1,103 +1,22 @@
-<html>
-  <head>
-    <meta charset="utf-8" />
-<meta name="description" content="" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Self-reflection from my Internship | Patty&#39;s Portfolio</title>
-<link rel="shortcut icon" href="https://oopspatty.github.io/favicon.ico?v=1558446150552">
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-<link rel="stylesheet" href="https://oopspatty.github.io/styles/main.css">
-
-<script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
-<script src="https://cdn.bootcss.com/moment.js/2.23.0/moment.min.js"></script>
-
-
-  </head>
-  <body>
-    <div class="main">
-      <div class="main-content">
-        <div class="site-header">
-  <a href="https://oopspatty.github.io">
-  <img class="avatar" src="https://oopspatty.github.io/images/avatar.png?v=1558446150552" alt="">
-  </a>
-  <h1 class="site-title">
-    Patty&#39;s Portfolio
-  </h1>
-  <p class="site-description">
-    A UX pilot. Sometime an illustrator.
-  </p>
-  <div class="menu-container">
-    
-      
-        <a href="/" class="menu">
-          Recent Work
-        </a>
-      
-    
-      
-        <a href="https://oopspatty.github.io/tags" class="menu">
-          Tag
-        </a>
-      
-    
-      
-        <a href="https://oopspatty.github.io/archives" class="menu">
-          Archives
-        </a>
-      
-    
-      
-        <a href="https://oopspatty.github.io/post/about/" class="menu">
-          About
-        </a>
-      
-    
-  </div>
-  <div class="social-container">
-    
-      
-    
-      
-        <a href="https://twitter.com/tiaolingwang9" target="_blank">
-          <i class="fab fa-twitter"></i>
-        </a>
-      
-    
-      
-    
-      
-    
-      
-    
-  </div>
-</div>
-
-      
-        <div class="post-detail">
-          <article class="post">
-            <h2 class="post-title">
-              Self-reflection from my Internship
-            </h2>
-            <div class="post-info">
-              <time class="post-time">
-                · 2017-08-30 ·
-              </time>
-              
-                <a href="https://oopspatty.github.io/tag/life" class="post-tags">
-                  # Designing Life
-                </a>
-              
-                <a href="https://oopspatty.github.io/tag/designreflection" class="post-tags">
-                  # Design Reflection
-                </a>
-              
-            </div>
-            
-              <div class="post-feature-image" style="background-image: url('https://oopspatty.github.io/post-images/my-internship.png')">
-              </div>
-            
-            <div class="post-content">
-              <p>In summer 2017, I had my internship at the design consultancy - Live Well Collaborative. It was a splendid time with understanding and growing-up. Working with incredible and talented people, meeting collaborators of totally different backgrounds, I had a pleasure of learning, designing and crafting experience in a very complicated world. I worked with two distinctive client groups and was in charge of two projects — they were extremely different —</p>
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://oopspatty.github.io</id>
+    <title>Patty&apos;s Portfolio</title>
+    <updated>2019-05-21T13:42:32.981Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://oopspatty.github.io"/>
+    <link rel="self" href="https://oopspatty.github.io/atom.xml"/>
+    <subtitle>A UX pilot. Sometime an illustrator.</subtitle>
+    <logo>https://oopspatty.github.io/images/avatar.png</logo>
+    <icon>https://oopspatty.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2019, Patty&apos;s Portfolio</rights>
+    <entry>
+        <title type="html"><![CDATA[Self-reflection from my Internship]]></title>
+        <id>https://oopspatty.github.io/post/my-internship</id>
+        <link href="https://oopspatty.github.io/post/my-internship">
+        </link>
+        <updated>2017-08-30T14:47:33.000Z</updated>
+        <content type="html"><![CDATA[<p>In summer 2017, I had my internship at the design consultancy - Live Well Collaborative. It was a splendid time with understanding and growing-up. Working with incredible and talented people, meeting collaborators of totally different backgrounds, I had a pleasure of learning, designing and crafting experience in a very complicated world. I worked with two distinctive client groups and was in charge of two projects — they were extremely different —</p>
 <ul>
 <li>
 <p>One was working with a local senior living facility, to redesign the emergency exit door context for residents with dementia there, which is a system design project, mostly on the basis of design thinking, and finally we came out a comprehensive and systematic solution.</p>
@@ -130,60 +49,20 @@
 <p>I left this part as my ending part. Not just because learning is a life-long task, but also design is dynamic and continuous to work long and prosper. Design is not a math question that the answer is one-time validated, it could be being iterative forever, and get ready for that there is always a better design solution on the way.</p>
 <p><img src="https://oopspatty.github.io/post-images/1558193884603.jpg" alt="">
 <em>Photo commemoration after final presentation in Live Well Collaborative. Photo credits to Live Well Collaborative.</em></p>
-
-            </div>
-          </article>
-        </div>
-    
-        
-          <div class="next-post">
-            <div class="next">下一篇</div>
-            <a href="https://oopspatty.github.io/post/robotics-for-boeing">
-              <h3 class="post-title">
-                Charli &amp; Mollie - Robotics Design for Boeing
-              </h3>
-            </a>
-          </div>  
-        
-
-        
-          
-            <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
-<script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
-
-<div id="gitalk-container"></div>
-
-<script>
-
-  var gitalk = new Gitalk({
-    clientID: 'c57a1b7d730fab86b974',
-    clientSecret: '7f3c41527271fd4685e474b4a81416e7603a2646',
-    repo: 'oopspatty.github.io',
-    owner: 'oopsPatty',
-    admin: ['oopsPatty'],
-    id: location.pathname,      // Ensure uniqueness and length less than 50
-    distractionFreeMode: false  // Facebook-like distraction free mode
-  })
-
-  gitalk.render('gitalk-container')
-
-</script>
-
-          
-
-          
-        
-    
-        <div class="site-footer">
-  ©2017-2019 Tiaoling Wang. All rights reserved.
-Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a>
-</div>
-
-<script>
-  hljs.initHighlightingOnLoad()
-</script>
-
-      </div>
-    </div>
-  </body>
-</html>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Charli & Mollie - Robotics Design for Boeing]]></title>
+        <id>https://oopspatty.github.io/post/robotics-for-boeing</id>
+        <link href="https://oopspatty.github.io/post/robotics-for-boeing">
+        </link>
+        <updated>2017-04-28T15:16:03.000Z</updated>
+        <content type="html"><![CDATA[<p>This project was sponsored by Boeing Company collaborated with Live Well Collaborative.  <a href="http://livewellcollaborative.org/cabin-bot">The cabin bot Charli has proudly became patent filing since January 2018. </a></p>
+<p><a href="http://livewellcollaborative.org/cabin-bot">Click here</a> to know more about it. If you are interested in this project, DM me and I am more than happy to share further details with you.</p>
+<p><img src="https://oopspatty.github.io/post-images/1558365936852.png" alt="">
+<img src="https://oopspatty.github.io/post-images/1558365825841.png" alt="">
+<img src="https://oopspatty.github.io/post-images/1558365844154.png" alt="">
+<img src="https://oopspatty.github.io/post-images/1558365949168.png" alt=""></p>
+]]></content>
+    </entry>
+</feed>
