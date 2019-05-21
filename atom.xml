@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://oopspatty.github.io</id>
     <title>Patty&apos;s Portfolio</title>
-    <updated>2019-05-21T13:42:32.981Z</updated>
+    <updated>2019-05-21T13:51:57.767Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://oopspatty.github.io"/>
     <link rel="self" href="https://oopspatty.github.io/atom.xml"/>
@@ -10,6 +10,25 @@
     <logo>https://oopspatty.github.io/images/avatar.png</logo>
     <icon>https://oopspatty.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Patty&apos;s Portfolio</rights>
+    <entry>
+        <title type="html"><![CDATA[The Kenwood]]></title>
+        <id>https://oopspatty.github.io/post/kenwood</id>
+        <link href="https://oopspatty.github.io/post/kenwood">
+        </link>
+        <updated>2019-05-21T13:36:47.000Z</updated>
+        <content type="html"><![CDATA[<p>The Kenwood - it is a system design project based on design thinking that I was interning in 2017 at <a href="http://livewellcollaborative.org">Live Well Collaborative</a>. Collaborated with a local senior living facility, The Kenwood by Senior Star, we were asked to redefine the emergency exit door environment for the independent-living senior residents with dementia.</p>
+<p><img src="https://oopspatty.github.io/post-images/1558446487474.png" alt=""></p>
+<p>The Kenwood by Senior Star is proud to serve as a valuable senior residential assisted living resource for all Cincinnati families. In the second floor of care building lives movable demented residents. Due to <strong>overworked staff</strong>, taking care of the demented residents becomes more challenged. Plus the <strong>complicated interior environment</strong>, that the residents with dementia tend to easily roam around and come through the emergency exit door lead <strong>potential risks</strong> on the innocent residents.</p>
+<h1 id="research-strategy">RESEARCH STRATEGY</h1>
+<p>Start with benchmarking the existing products and services for demented persons, interviews with working staff and observation on residents were soon organized to understand what the problem is. A dementia-affected resident's journey was illustrated to envision where the needs lie and where the opportunities are located.</p>
+<p><img src="https://oopspatty.github.io/post-images/1558446561450.png" alt="">
+<img src="https://oopspatty.github.io/post-images/1558446569358.jpg" alt="">
+<em>Experience map color palette inspired by Florencia Pagano.</em></p>
+<p><img src="https://oopspatty.github.io/post-images/1558446600652.png" alt=""></p>
+<h1 id="safety-with-humanity">SAFETY WITH HUMANITY</h1>
+<p>Instead of limit the freedom of residents, we attempted to innovate a desired relationship between residents and staff. That is, creating a living environment with remained dignity and security is the goal of this project.</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Self-reflection from my Internship]]></title>
         <id>https://oopspatty.github.io/post/my-internship</id>
@@ -57,12 +76,11 @@
         <link href="https://oopspatty.github.io/post/robotics-for-boeing">
         </link>
         <updated>2017-04-28T15:16:03.000Z</updated>
-        <content type="html"><![CDATA[<p>This project was sponsored by Boeing Company collaborated with Live Well Collaborative.  <a href="http://livewellcollaborative.org/cabin-bot">The cabin bot Charli has proudly became patent filing since January 2018. </a></p>
-<p><a href="http://livewellcollaborative.org/cabin-bot">Click here</a> to know more about it. If you are interested in this project, DM me and I am more than happy to share further details with you.</p>
-<p><img src="https://oopspatty.github.io/post-images/1558365936852.png" alt="">
+        <content type="html"><![CDATA[<p><img src="https://oopspatty.github.io/post-images/1558365936852.png" alt="">
 <img src="https://oopspatty.github.io/post-images/1558365825841.png" alt="">
 <img src="https://oopspatty.github.io/post-images/1558365844154.png" alt="">
 <img src="https://oopspatty.github.io/post-images/1558365949168.png" alt=""></p>
+<p>This project was sponsored by Boeing Company collaborated with Live Well Collaborative.  <a href="http://livewellcollaborative.org/cabin-bot">The cabin bot Charli has proudly became patent filing since January 2018. </a> If you are interested in this project, DM me and I am more than happy to share further details with you.</p>
 ]]></content>
     </entry>
 </feed>
