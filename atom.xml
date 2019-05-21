@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://oopspatty.github.io</id>
     <title>Patty&apos;s Portfolio</title>
-    <updated>2019-05-21T13:54:38.812Z</updated>
+    <updated>2019-05-21T14:03:00.228Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://oopspatty.github.io"/>
     <link rel="self" href="https://oopspatty.github.io/atom.xml"/>
@@ -52,7 +52,7 @@
 <li>Communicating and exchanging some ideas between teams in spare time, led me felt mind-opening and enriched myself from others' perspectives.</li>
 <li>Working in Live Well Collaborative also shaped me a systematic design approach, and this approach would definitely help me as well in my design career:</li>
 </ul>
-<p><img src="https://oopspatty.github.io/post-images/1558191729895.png" alt=""></p>
+<p><a href="https://i.loli.net/2019/05/21/5ce404e6149b669660.png"><img src="https://i.loli.net/2019/05/21/5ce404e6149b669660.png" alt="Design Process.png"></a></p>
 <h1 id="1-understanding-the-essence-of-communication">1. Understanding the essence of communication</h1>
 <p>When starting a project, usually we set our target groups well, and begin our research —— interviewing one by one, collecting enough data and summarizing, then directly diving into design practice, ending up with beautiful slides to present. BUT, is it so smooth to achieve our goal in reality ?</p>
 <p>During my internship, communication is everywhere and you have to initiative to iterate your design method. In the project Design for Dementia, in fact, my team was not allowed to directly interview the residents with dementia. However, we interacted with stakeholders from nurses, serving staff, programers even directors. We exchanged our ideas as much as we can, of course including observation, making any effort to understand our target users and where the exact pain-points lie. In the validation stage, we further invited non-involved co-workers to test our prototypes, which in turn gave us precious feedback to iterate our work. <strong>Honestly, listening carefully to the voice from clients and stakeholders would teach you, talking breezily with other people would surprise you.</strong></p>
@@ -76,10 +76,9 @@
         <link href="https://oopspatty.github.io/post/robotics-for-boeing">
         </link>
         <updated>2017-04-28T15:16:03.000Z</updated>
-        <content type="html"><![CDATA[<p><img src="https://oopspatty.github.io/post-images/1558365936852.png" alt="">
-<img src="https://oopspatty.github.io/post-images/1558365825841.png" alt="">
-<img src="https://oopspatty.github.io/post-images/1558365844154.png" alt="">
-<img src="https://oopspatty.github.io/post-images/1558365949168.png" alt=""></p>
+        <content type="html"><![CDATA[<p><a href="https://i.loli.net/2019/05/21/5ce403aa5b91864882.png"><img src="https://i.loli.net/2019/05/21/5ce403aa5b91864882.png" alt="Charli.png"></a>
+<a href="https://i.loli.net/2019/05/21/5ce403e0c13a986557.png"><img src="https://i.loli.net/2019/05/21/5ce403e0c13a986557.png" alt="Charli_Medical_Feature.png"></a>
+<a href="https://i.loli.net/2019/05/21/5ce4043730a5197032.png"><img src="https://i.loli.net/2019/05/21/5ce4043730a5197032.png" alt="Mollie.png"></a></p>
 <p>This project was sponsored by Boeing Company collaborated with Live Well Collaborative.  <a href="http://livewellcollaborative.org/cabin-bot">The cabin bot Charli has proudly became patent filing since January 2018. </a> If you are interested in this project, DM me and I am more than happy to share further details with you.</p>
 ]]></content>
     </entry>
