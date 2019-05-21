@@ -2,12 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://oopspatty.github.io</id>
     <title>Patty&apos;s Portfolio</title>
-    <updated>2019-05-21T15:19:07.694Z</updated>
+    <updated>2019-05-21T15:23:08.851Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://oopspatty.github.io"/>
     <link rel="self" href="https://oopspatty.github.io/atom.xml"/>
-    <subtitle>&lt;p&gt;A UX pilot, sometime an illustrator. &lt;/p&gt;
-&lt;p&gt;Currently @Accenture SH Liquid Studio designing for friendly artificial intelligence&lt;/p&gt;</subtitle>
+    <subtitle>A UX pilot, sometime an illustrator. 
+&lt;br&gt;Currently @Accenture SH Liquid Studio designing for friendly artificial intelligence&lt;/br&gt;</subtitle>
     <logo>https://oopspatty.github.io/images/avatar.png</logo>
     <icon>https://oopspatty.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Patty&apos;s Portfolio</rights>
