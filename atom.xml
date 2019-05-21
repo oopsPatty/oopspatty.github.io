@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://oopspatty.github.io</id>
     <title>Patty&apos;s Portfolio</title>
-    <updated>2019-05-21T14:24:40.544Z</updated>
+    <updated>2019-05-21T15:09:16.262Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://oopspatty.github.io"/>
     <link rel="self" href="https://oopspatty.github.io/atom.xml"/>
@@ -10,44 +10,6 @@
     <logo>https://oopspatty.github.io/images/avatar.png</logo>
     <icon>https://oopspatty.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Patty&apos;s Portfolio</rights>
-    <entry>
-        <title type="html"><![CDATA[The Kenwood]]></title>
-        <id>https://oopspatty.github.io/post/kenwood</id>
-        <link href="https://oopspatty.github.io/post/kenwood">
-        </link>
-        <updated>2019-05-21T13:36:47.000Z</updated>
-        <content type="html"><![CDATA[<p>The Kenwood - it is a system design project based on design thinking that I was interning in 2017 at <a href="http://livewellcollaborative.org">Live Well Collaborative</a>. Collaborated with a local senior living facility, The Kenwood by Senior Star, we were asked to redefine the emergency exit door environment for the independent-living senior residents with dementia.</p>
-<p><a href="https://i.loli.net/2019/05/21/5ce402f35f9c380124.png"><img src="https://i.loli.net/2019/05/21/5ce402f35f9c380124.png" alt="Kenwood_floor_plan"></a></p>
-<p>The Kenwood by Senior Star is proud to serve as a valuable senior residential assisted living resource for all Cincinnati families. In the second floor of care building lives movable demented residents. Due to <strong>overworked staff</strong>, taking care of the demented residents becomes more challenged. Plus the <strong>complicated interior environment</strong>, that the residents with dementia tend to easily roam around and come through the emergency exit door lead <strong>potential risks</strong> on the innocent residents.</p>
-<h1 id="research-strategy">RESEARCH STRATEGY</h1>
-<p>Start with benchmarking the existing products and services for demented persons, interviews with working staff and observation on residents were soon organized to understand what the problem is. A dementia-affected resident's journey was illustrated to envision where the needs lie and where the opportunities are located.</p>
-<p><a href="https://i.loli.net/2019/05/21/5ce405e61ecf241598.png"><img src="https://i.loli.net/2019/05/21/5ce405e61ecf241598.png" alt="Kenwood_benchamarking"></a>
-<a href="https://i.loli.net/2019/05/21/5ce405e6afd1291464.jpg"><img src="https://i.loli.net/2019/05/21/5ce405e6afd1291464.jpg" alt="Kenwood_persona&amp;xMap"></a>
-<em>Experience map color palette inspired by Florencia Pagano.</em></p>
-<p><a href="https://i.loli.net/2019/05/21/5ce40626af14668724.png"><img src="https://i.loli.net/2019/05/21/5ce40626af14668724.png" alt="Kenwood_Insight"></a></p>
-<h1 id="safety-with-humanity">SAFETY WITH HUMANITY</h1>
-<p>Instead of depriving the freedom of residents, we attempted to innovate a desired relationship between residents and staff. Therefore, creating a living environment with remained dignity and security is the goal of this project.</p>
-<p><a href="https://i.loli.net/2019/05/21/5ce406d388b8672211.png"><img src="https://i.loli.net/2019/05/21/5ce406d388b8672211.png" alt="Kenwood_transformation"></a></p>
-<h1 id="solution-system">SOLUTION SYSTEM</h1>
-<p>Four concept directions below came out based on the research findings. After several rounds of iterations and user-testing with our clients, we came up with a final integrated solution system based on the four design directions.</p>
-<p><a href="https://i.loli.net/2019/05/21/5ce406d38ebcb97919.jpg"><img src="https://i.loli.net/2019/05/21/5ce406d38ebcb97919.jpg" alt="Kenwood_Directions"></a>
-<a href="https://i.loli.net/2019/05/21/5ce406d53d94225757.jpg"><img src="https://i.loli.net/2019/05/21/5ce406d53d94225757.jpg" alt="Kenwood_SoultionSystem"></a></p>
-<h1 id="co-design">CO-DESIGN</h1>
-<p>10 more stakeholders were invited from the Kenwood to test the major solutions including art boxes, do stations and false window. Further, we invited peripheral volunteers to tested prototypes with sensory blockers to simulate a resident’s experience and gain new perspectives.</p>
-<p><strong>All the final prototypes have been put into formal use in The Kenwood since August, 2017.</strong> The “outdoor room” is on the plan of construction.</p>
-<p><a href="https://i.loli.net/2019/05/21/5ce406d440e9f13454.jpg"><img src="https://i.loli.net/2019/05/21/5ce406d440e9f13454.jpg" alt="Kenwood_Refine"></a></p>
-<p><a href="https://i.loli.net/2019/05/21/5ce4081105d0439485.png"><img src="https://i.loli.net/2019/05/21/5ce4081105d0439485.png" alt="Kenwood_Feedback"></a></p>
-<h1 id="future-opportunities">FUTURE OPPORTUNITIES</h1>
-<p>Potential works need to think about in the future to improve the experiences of residents and their loved ones even all of working staff.</p>
-<p><a href="https://i.loli.net/2019/05/21/5ce406d42e74c22475.jpg"><img src="https://i.loli.net/2019/05/21/5ce406d42e74c22475.jpg" alt="Kenwood_Future_Opportunities"></a></p>
-<h1 id="reflection">REFLECTION</h1>
-<p>This project gave me a valuable opportunity to solve the problem with user-centered design from very beginning to delivery: identification, research, design and future consideration.</p>
-<p>When designing a product or service, one straightforward way is to interact with target users. However, for some special reasons, interviewing <strong>stakeholders bring great insights as well</strong>, particularly in the situation that hard to approach to the target users for designer (so did we in this project).</p>
-<p>Additionally, this system design project also taught me that the significance of an integrated solution system to solve a problem. Different from other projects, it gave me more official constraints and challenges but also left me more space to design around.</p>
-<p>Lastly, this project led me to deep thought about design for human's future well-being.</p>
-<p><strong>Design could be commercial, theoretical or practical, but design should be meaningful and thoughtful.</strong></p>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Self-reflection from my Internship]]></title>
         <id>https://oopspatty.github.io/post/my-internship</id>
@@ -87,6 +49,44 @@
 <p>I left this part as my ending part. Not just because learning is a life-long task, but also design is dynamic and continuous to work long and prosper. Design is not a math question that the answer is one-time validated, it could be being iterative forever, and get ready for that there is always a better design solution on the way.</p>
 <p><a href="https://i.loli.net/2019/05/21/5ce40569556c519598.jpg"><img src="https://i.loli.net/2019/05/21/5ce40569556c519598.jpg" alt="Photo of Family Live Well Collaborative.jpg"></a>
 <em>Commemoration after final presentation in Live Well Collaborative. Photo credits to Live Well Collaborative.</em></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Kenwood]]></title>
+        <id>https://oopspatty.github.io/post/kenwood</id>
+        <link href="https://oopspatty.github.io/post/kenwood">
+        </link>
+        <updated>2017-08-11T13:36:47.000Z</updated>
+        <content type="html"><![CDATA[<p>The Kenwood - it is a system design project based on design thinking that I was interning in 2017 at <a href="http://livewellcollaborative.org">Live Well Collaborative</a>. Collaborated with a local senior living facility, The Kenwood by Senior Star, we were asked to redefine the emergency exit door environment for the independent-living senior residents with dementia.</p>
+<p><a href="https://i.loli.net/2019/05/21/5ce402f35f9c380124.png"><img src="https://i.loli.net/2019/05/21/5ce402f35f9c380124.png" alt="Kenwood_floor_plan"></a></p>
+<p>The Kenwood by Senior Star is proud to serve as a valuable senior residential assisted living resource for all Cincinnati families. In the second floor of care building lives movable demented residents. Due to <strong>overworked staff</strong>, taking care of the demented residents becomes more challenged. Plus the <strong>complicated interior environment</strong>, that the residents with dementia tend to easily roam around and come through the emergency exit door lead <strong>potential risks</strong> on the innocent residents.</p>
+<h1 id="research-strategy">RESEARCH STRATEGY</h1>
+<p>Start with benchmarking the existing products and services for demented persons, interviews with working staff and observation on residents were soon organized to understand what the problem is. A dementia-affected resident's journey was illustrated to envision where the needs lie and where the opportunities are located.</p>
+<p><a href="https://i.loli.net/2019/05/21/5ce405e61ecf241598.png"><img src="https://i.loli.net/2019/05/21/5ce405e61ecf241598.png" alt="Kenwood_benchamarking"></a></p>
+<p><a href="https://i.loli.net/2019/05/21/5ce405e6afd1291464.jpg"><img src="https://i.loli.net/2019/05/21/5ce405e6afd1291464.jpg" alt="Kenwood_persona&amp;xMap"></a>
+<em>Experience map color palette inspired by Florencia Pagano.</em></p>
+<p><a href="https://i.loli.net/2019/05/21/5ce40626af14668724.png"><img src="https://i.loli.net/2019/05/21/5ce40626af14668724.png" alt="Kenwood_Insight"></a></p>
+<h1 id="safety-with-humanity">SAFETY WITH HUMANITY</h1>
+<p>Instead of depriving the freedom of residents, we attempted to innovate a desired relationship between residents and staff. Therefore, creating a living environment with remained dignity and security is the goal of this project.</p>
+<p><a href="https://i.loli.net/2019/05/21/5ce406d388b8672211.png"><img src="https://i.loli.net/2019/05/21/5ce406d388b8672211.png" alt="Kenwood_transformation"></a></p>
+<h1 id="solution-system">SOLUTION SYSTEM</h1>
+<p>Four concept directions below came out based on the research findings. After several rounds of iterations and user-testing with our clients, we came up with a final integrated solution system based on the four design directions.</p>
+<p><a href="https://i.loli.net/2019/05/21/5ce406d38ebcb97919.jpg"><img src="https://i.loli.net/2019/05/21/5ce406d38ebcb97919.jpg" alt="Kenwood_Directions"></a></p>
+<p><a href="https://i.loli.net/2019/05/21/5ce406d53d94225757.jpg"><img src="https://i.loli.net/2019/05/21/5ce406d53d94225757.jpg" alt="Kenwood_SoultionSystem"></a></p>
+<h1 id="co-design">CO-DESIGN</h1>
+<p>10 more stakeholders were invited from the Kenwood to test the major solutions including art boxes, do stations and false window. Further, we invited peripheral volunteers to tested prototypes with sensory blockers to simulate a resident’s experience and gain new perspectives.</p>
+<p><strong>All the final prototypes have been put into formal use in The Kenwood since August, 2017.</strong> The “outdoor room” is on the plan of construction.</p>
+<p><a href="https://i.loli.net/2019/05/21/5ce406d440e9f13454.jpg"><img src="https://i.loli.net/2019/05/21/5ce406d440e9f13454.jpg" alt="Kenwood_Refine"></a></p>
+<p><a href="https://i.loli.net/2019/05/21/5ce4081105d0439485.png"><img src="https://i.loli.net/2019/05/21/5ce4081105d0439485.png" alt="Kenwood_Feedback"></a></p>
+<h1 id="future-opportunities">FUTURE OPPORTUNITIES</h1>
+<p>Potential works need to think about in the future to improve the experiences of residents and their loved ones even all of working staff.</p>
+<p><a href="https://i.loli.net/2019/05/21/5ce406d42e74c22475.jpg"><img src="https://i.loli.net/2019/05/21/5ce406d42e74c22475.jpg" alt="Kenwood_Future_Opportunities"></a></p>
+<h1 id="reflection">REFLECTION</h1>
+<p>This project gave me a valuable opportunity to solve the problem with user-centered design from very beginning to delivery: identification, research, design and future consideration.</p>
+<p>When designing a product or service, one straightforward way is to interact with target users. However, for some special reasons, interviewing <strong>stakeholders bring great insights as well</strong>, particularly in the situation that hard to approach to the target users for designer (so did we in this project).</p>
+<p>Additionally, this system design project also taught me that the significance of an integrated solution system to solve a problem. Different from other projects, it gave me more official constraints and challenges but also left me more space to design around.</p>
+<p>Lastly, this project led me to deep thought about design for human's future well-being.</p>
+<p><strong>Design could be commercial, theoretical or practical, but design should be meaningful and thoughtful.</strong></p>
 ]]></content>
     </entry>
     <entry>
