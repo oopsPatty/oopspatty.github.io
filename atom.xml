@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://oopspatty.github.io</id>
     <title>Patty&apos;s Portfolio</title>
-    <updated>2019-05-21T16:08:09.361Z</updated>
+    <updated>2019-05-23T13:23:24.566Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://oopspatty.github.io"/>
     <link rel="self" href="https://oopspatty.github.io/atom.xml"/>
@@ -12,9 +12,9 @@
     <icon>https://oopspatty.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Patty&apos;s Portfolio</rights>
     <entry>
-        <title type="html"><![CDATA[Self-reflection from my Internship]]></title>
-        <id>https://oopspatty.github.io/post/my-internship</id>
-        <link href="https://oopspatty.github.io/post/my-internship">
+        <title type="html"><![CDATA[[Article] Self-reflection from my Internship]]></title>
+        <id>https://oopspatty.github.io/post/internship</id>
+        <link href="https://oopspatty.github.io/post/internship">
         </link>
         <updated>2017-08-30T14:47:33.000Z</updated>
         <content type="html"><![CDATA[<p>In summer 2017, I had my internship at the design consultancy - Live Well Collaborative. It was a splendid time with understanding and growing-up. Working with incredible and talented people, meeting collaborators of totally different backgrounds, I had a pleasure of learning, designing and crafting experience in a very complicated world. I worked with two distinctive client groups and was in charge of two projects — they were extremely different —</p>
@@ -23,7 +23,8 @@
 <p>One was working with a local senior living facility, to redesign the emergency exit door context for residents with dementia there, which is a system design project, mostly on the basis of design thinking, and finally we came out a comprehensive and systematic solution.</p>
 </li>
 <li>
-<p>The other one was serving Cincinnati Children's Hospital for two tasks — devising a new Oncology Handbook and releasing the 1-2-3 initiative device. This project led me into printing world together with elevating my practical engineering skills, which I developed in my undergraduate time, to create a real objective for real needs. It can be said that these tasks were bitter-sweet challenges and affirmation for my all-round ability.</p>
+<p>The other one was serving Cincinnati Children's Hospital for two tasks — devising a new Oncology Handbook and releasing the 1-2-3 initiative device. This project led me into printing world together with elevating my practical engineering skills, which I developed in my undergraduate time, to create a real objective for real needs. It can be said that these tasks were bitter-sweet challenges and affirmation for my all-round ability.
+<br></p>
 </li>
 </ul>
 <h1 id="some-highlights-of-internship">Some highlights of internship</h1>
@@ -34,22 +35,28 @@
 <li>Communicating and exchanging some ideas between teams in spare time, led me felt mind-opening and enriched myself from others' perspectives.</li>
 <li>Working in Live Well Collaborative also shaped me a systematic design approach, and this approach would definitely help me as well in my design career:</li>
 </ul>
-<p><a href="https://i.loli.net/2019/05/21/5ce404e6149b669660.png"><img src="https://i.loli.net/2019/05/21/5ce404e6149b669660.png" alt="Design Process.png"></a></p>
+<p><a href="https://i.loli.net/2019/05/21/5ce404e6149b669660.png"><img src="https://i.loli.net/2019/05/21/5ce404e6149b669660.png" alt="Design Process"></a>
+<br></p>
 <h1 id="1-understanding-the-essence-of-communication">1. Understanding the essence of communication</h1>
 <p>When starting a project, usually we set our target groups well, and begin our research —— interviewing one by one, collecting enough data and summarizing, then directly diving into design practice, ending up with beautiful slides to present. BUT, is it so smooth to achieve our goal in reality ?</p>
-<p>During my internship, communication is everywhere and you have to initiative to iterate your design method. In the project Design for Dementia, in fact, my team was not allowed to directly interview the residents with dementia. However, we interacted with stakeholders from nurses, serving staff, programers even directors. We exchanged our ideas as much as we can, of course including observation, making any effort to understand our target users and where the exact pain-points lie. In the validation stage, we further invited non-involved co-workers to test our prototypes, which in turn gave us precious feedback to iterate our work. <strong>Honestly, listening carefully to the voice from clients and stakeholders would teach you, talking breezily with other people would surprise you.</strong></p>
+<p>During my internship, communication is everywhere and you have to initiative to iterate your design method. In the project Design for Dementia, in fact, my team was not allowed to directly interview the residents with dementia. However, we interacted with stakeholders from nurses, serving staff, programers even directors. We exchanged our ideas as much as we can, of course including observation, making any effort to understand our target users and where the exact pain-points lie. In the validation stage, we further invited non-involved co-workers to test our prototypes, which in turn gave us precious feedback to iterate our work. <strong>Honestly, listening carefully to the voice from clients and stakeholders would teach you, talking breezily with other people would surprise you.</strong> 
+<br></p>
 <h1 id="2-problem-identification-plays-important-role">2. Problem identification plays important role</h1>
-<p>For design beginner, even for some of our experienced colleagues, the circumstance of putting ourselves into delivering a solution is usual, sometimes it happened unconsciously because it's easy and clear. This unpleasant situation also bothered me before, in this case, how can we transform the way we think becomes vital.</p>
-<p>Another example of the project Design for Dementia, we were firstly tasked to redesign the emergency exit doors because they posed a security threat to the demented residents. But why security doors were a threat? Are they really the problem we need to resolve? Embracing with such questions, we did a field trip, analyzed the context even looked up some research about elderly behaviors. One of our findings came out that the emergency door attracted residents to explore because, to some extend, they were forbidden to go outside by the staff for the personal safety consideration! How paradoxical the reason it is, right? Knowing that key info, our team just changed the way we think of the problem —— why don't we try to make this problem become a problem-solving? That's what leading us came out a partial solution in our solution system. (To see more details about the project, click here!)</p>
-<p>It is common to get lost while doing research and trying to jump to the solution. But <strong>the problem identification and exploration can lead you to the place that you never be even you never realize, also bring you unexpected growth that can affect your whole life.</strong></p>
+<p>For design beginner, even for some of our experienced colleagues, the circumstance of putting ourselves into delivering a solution is usual, sometimes it happened unconsciously because it's easy and clear. This unpleasant situation also bothered me before, in this case, how can we transform the way we think becomes vital.
+<br></p>
+<p>Another example of the project Design for Dementia, we were firstly tasked to redesign the emergency exit doors because they posed a security threat to the demented residents. But why security doors were a threat? Are they really the problem we need to resolve? Embracing with such questions, we did a field trip, analyzed the context even looked up some research about elderly behaviors. One of our findings came out that the emergency door attracted residents to explore because, to some extend, they were forbidden to go outside by the staff for the personal safety consideration! How paradoxical the reason it is, right? Knowing that key info, our team just changed the way we think of the problem —— why don't we try to make this problem become a problem-solving? That's what leading us came out a partial solution in our solution system. (To see more details about the project, click here!)
+<br></p>
+<p>It is common to get lost while doing research and trying to jump to the solution. But <strong>the problem identification and exploration can lead you to the place that you never be even you never realize, also bring you unexpected growth that can affect your whole life.</strong> 
+<br></p>
 <h1 id="3-always-be-curious-not-judgmental">3. Always be curious, not judgmental.</h1>
 <p>This is my motto, I hope it can also enlighten you a little bit. Preconceived ideas will always play a decisive role, but as a designer, embracing ambiguity and maintain curious leads you to open your mind.</p>
 <p>When doing the project Oncology Books, me and my co-work came up with several creative ideas for patients, abandoning traditional book style which we thought it's out-of-date. However, gaining feedbacks from medical staff and participants, a simple-to-use handbook with our innovative elements became the final design — Not changing users behaviors while bringing much convenience for users to achieve the goal — which guarantee the useful and feasible features for both sides.</p>
-<p>It's really frustrated sometimes when your solution was not selected as the final one. But this is not a bad end, right? See this situation in a different way: Is the solution a final desicive one? Is there any problem that the solution did not cover? Does the solution really solve the main problem that bothering your client? Can you learn something new from the selected solution?</p>
+<p>It's really frustrated sometimes when your solution was not selected as the final one. But this is not a bad end, right? See this situation in a different way: Is the solution a final desicive one? Is there any problem that the solution did not cover? Does the solution really solve the main problem that bothering your client? Can you learn something new from the selected solution?
+<br></p>
 <h1 id="4-continuity">4. Continuity</h1>
 <p>I left this part as my ending part. Not just because learning is a life-long task, but also design is dynamic and continuous to work long and prosper. Design is not a math question that the answer is one-time validated, it could be being iterative forever, and get ready for that there is always a better design solution on the way.</p>
 <p><a href="https://i.loli.net/2019/05/21/5ce40569556c519598.jpg"><img src="https://i.loli.net/2019/05/21/5ce40569556c519598.jpg" alt="Photo of Family Live Well Collaborative.jpg"></a>
-<em>Commemoration after final presentation in Live Well Collaborative. Photo credits to Live Well Collaborative.</em></p>
+<small>Commemoration after final presentation in Live Well Collaborative. Photo credits to Live Well Collaborative.</p>
 ]]></content>
     </entry>
     <entry>
@@ -62,8 +69,8 @@
 <p><a href="https://i.loli.net/2019/05/21/5ce402f35f9c380124.png"><img src="https://i.loli.net/2019/05/21/5ce402f35f9c380124.png" alt="Kenwood_floor_plan"></a></p>
 <p>The Kenwood by Senior Star is proud to serve as a valuable senior residential assisted living resource for all Cincinnati families. In the second floor of care building lives movable demented residents. Due to <strong>overworked staff</strong>, taking care of the demented residents becomes more challenged. Plus the <strong>complicated interior environment</strong>, that the residents with dementia tend to easily roam around and come through the emergency exit door lead <strong>potential risks</strong> on the innocent residents.</p>
 <br>
-# RESEARCH STRATEGY
-Start with benchmarking the existing products and services for demented persons, interviews with working staff and observation on residents were soon organized to understand what the problem is. A dementia-affected resident's journey was illustrated to envision where the needs lie and where the opportunities are located.
+<h1 id="research-strategy">RESEARCH STRATEGY</h1>
+<p>Start with benchmarking the existing products and services for demented persons, interviews with working staff and observation on residents were soon organized to understand what the problem is. A dementia-affected resident's journey was illustrated to envision where the needs lie and where the opportunities are located.</p>
 <p><a href="https://i.loli.net/2019/05/21/5ce405e61ecf241598.png"><img src="https://i.loli.net/2019/05/21/5ce405e61ecf241598.png" alt="Kenwood_benchamarking"></a>
 <br></p>
 <p><a href="https://i.loli.net/2019/05/22/5ce42189907bb74033.png"><img src="https://i.loli.net/2019/05/22/5ce42189907bb74033.png" alt="Kenwood_stakeholder_map_n_value_flow"></a>
@@ -76,31 +83,31 @@ Start with benchmarking the existing products and services for demented persons,
 <h1 id="safety-with-humanity">SAFETY WITH HUMANITY</h1>
 <p>Instead of depriving the freedom of residents, we attempted to innovate a desired relationship between residents and staff. Therefore, creating a living environment with remained dignity and security is the goal of this project.
 <br></p>
-<p><a href="https://i.loli.net/2019/05/21/5ce406d388b8672211.png"><img src="https://i.loli.net/2019/05/21/5ce406d388b8672211.png" alt="Kenwood_transformation"></a></p>
-<br>
-# SOLUTION SYSTEM
-Four concept directions below came out based on the research findings. After several rounds of iterations and user-testing with our clients, we came up with a final integrated solution system based on the four design directions.
-<br>
+<p><a href="https://i.loli.net/2019/05/21/5ce406d388b8672211.png"><img src="https://i.loli.net/2019/05/21/5ce406d388b8672211.png" alt="Kenwood_transformation"></a>
+<br></p>
+<h1 id="solution-system">SOLUTION SYSTEM</h1>
+<p>Four concept directions below came out based on the research findings. After several rounds of iterations and user-testing with our clients, we came up with a final integrated solution system based on the four design directions.
+<br></p>
 <p><a href="https://i.loli.net/2019/05/21/5ce406d38ebcb97919.jpg"><img src="https://i.loli.net/2019/05/21/5ce406d38ebcb97919.jpg" alt="Kenwood_Directions"></a>
 <br></p>
-<p><a href="https://i.loli.net/2019/05/21/5ce406d53d94225757.jpg"><img src="https://i.loli.net/2019/05/21/5ce406d53d94225757.jpg" alt="Kenwood_SoultionSystem"></a></p>
-<br>
-# CO-DESIGN
-10 more stakeholders were invited from the Kenwood to test the major solutions including art boxes, do stations and false window. Further, we invited peripheral volunteers to tested prototypes with sensory blockers to simulate a resident’s experience and gain new perspectives.
-<br>
-**All the final prototypes have been put into formal use in The Kenwood since August, 2017.** The “outdoor room” is on the plan of construction.
-<br>
-[![Kenwood_Refine](https://i.loli.net/2019/05/21/5ce406d440e9f13454.jpg)](https://i.loli.net/2019/05/21/5ce406d440e9f13454.jpg)
-<br>
-[![Kenwood_Feedback](https://i.loli.net/2019/05/21/5ce4081105d0439485.png)](https://i.loli.net/2019/05/21/5ce4081105d0439485.png)
-<br>
-# FUTURE OPPORTUNITIES
-Potential works need to think about in the future to improve the experiences of residents and their loved ones even all of working staff.
-<br>
-[![Kenwood_Future_Opportunities](https://i.loli.net/2019/05/21/5ce406d42e74c22475.jpg)](https://i.loli.net/2019/05/21/5ce406d42e74c22475.jpg)
-<br>
-# REFLECTION
-This project gave me a valuable opportunity to solve the problem with user-centered design from very beginning to delivery: identification, research, design and future consideration.
+<p><a href="https://i.loli.net/2019/05/21/5ce406d53d94225757.jpg"><img src="https://i.loli.net/2019/05/21/5ce406d53d94225757.jpg" alt="Kenwood_SoultionSystem"></a>
+<br></p>
+<h1 id="co-design">CO-DESIGN</h1>
+<p>10 more stakeholders were invited from the Kenwood to test the major solutions including art boxes, do stations and false window. Further, we invited peripheral volunteers to tested prototypes with sensory blockers to simulate a resident’s experience and gain new perspectives.
+<br></p>
+<p><strong>All the final prototypes have been put into formal use in The Kenwood since August, 2017.</strong> The “outdoor room” is on the plan of construction.
+<br></p>
+<p><a href="https://i.loli.net/2019/05/21/5ce406d440e9f13454.jpg"><img src="https://i.loli.net/2019/05/21/5ce406d440e9f13454.jpg" alt="Kenwood_Refine"></a>
+<br></p>
+<p><a href="https://i.loli.net/2019/05/21/5ce4081105d0439485.png"><img src="https://i.loli.net/2019/05/21/5ce4081105d0439485.png" alt="Kenwood_Feedback"></a>
+<br></p>
+<h1 id="future-opportunities">FUTURE OPPORTUNITIES</h1>
+<p>Potential works need to think about in the future to improve the experiences of residents and their loved ones even all of working staff.
+<br></p>
+<p><a href="https://i.loli.net/2019/05/22/5ce422f17a49649567.jpg"><img src="https://i.loli.net/2019/05/22/5ce422f17a49649567.jpg" alt="Kenwood_Future"></a>
+<br></p>
+<h1 id="reflection">REFLECTION</h1>
+<p>This project gave me a valuable opportunity to solve the problem with user-centered design from very beginning to delivery: identification, research, design and future consideration.</p>
 <p>When designing a product or service, one straightforward way is to interact with target users. However, for some special reasons, interviewing <strong>stakeholders bring great insights as well</strong>, particularly in the situation that hard to approach to the target users for designer (so did we in this project).</p>
 <p>Additionally, this system design project also taught me that the significance of an integrated solution system to solve a problem. Different from other projects, it gave me more official constraints and challenges but also left me more space to design around.</p>
 <p>Lastly, this project led me to deep thought about design for human's future well-being.</p>
