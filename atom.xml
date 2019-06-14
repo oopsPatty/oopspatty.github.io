@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://oopspatty.github.io</id>
     <title>Patty&apos;s Portfolio</title>
-    <updated>2019-05-23T13:23:24.566Z</updated>
+    <updated>2019-06-14T11:40:15.055Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://oopspatty.github.io"/>
     <link rel="self" href="https://oopspatty.github.io/atom.xml"/>
@@ -11,6 +11,74 @@
     <logo>https://oopspatty.github.io/images/avatar.png</logo>
     <icon>https://oopspatty.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Patty&apos;s Portfolio</rights>
+    <entry>
+        <title type="html"><![CDATA[StoryPot - Road to Know Alzheimer's Disease]]></title>
+        <id>https://oopspatty.github.io/post/storypot-road-to-know-alzheimers-disease</id>
+        <link href="https://oopspatty.github.io/post/storypot-road-to-know-alzheimers-disease">
+        </link>
+        <updated>2018-06-12T10:15:58.000Z</updated>
+        <content type="html"><![CDATA[<p>This is a personal project supporting my graduate thesis - Research on current public perception of Alzheimer’s disease among Chinese young generations. The research was proudly to be appreciated by Alzheimer's Association, Greater Cincinnati Chapter.</p>
+<p><a href="https://i.loli.net/2019/06/14/5d03787a479f511420.png"><img src="https://i.loli.net/2019/06/14/5d03787a479f511420.png" alt="1.png"></a></p>
+<h1 id="insiders-vs-outsiders">INSIDERS vs OUTSIDERS</h1>
+<p>During my journey of research, people can be generally categorized as two groups based on that if they have the experience and prior knowledge about Alzheimer's disease or not.
+<strong>Alzheimer's Insiders</strong> - People who have/had relatives with Alzheimer's.
+<strong>Alzheimer's Outsiders</strong> - People who might not have a relative with Alzheimer's YET.
+<br>
+There is, however, no actual boundary between two groups of people, for instance, an individual who recently find his/her family member showing symptoms of Alzheimer's or the senior loved ones who are lately diagnosed with Alzheimer's. And, the voice from the insiders can reliably guide the outsiders to know better about the disease even what next steps to leap as long as it occurs.</p>
+<p><a href="https://i.loli.net/2019/06/14/5d03787a11b3f22962.png"><img src="https://i.loli.net/2019/06/14/5d03787a11b3f22962.png" alt="2.png"></a></p>
+<p><a href="https://i.loli.net/2019/06/14/5d037879a1d9b83476.png"><img src="https://i.loli.net/2019/06/14/5d037879a1d9b83476.png" alt="3.png"></a></p>
+<p><a href="https://i.loli.net/2019/06/14/5d0378793f8e954965.png"><img src="https://i.loli.net/2019/06/14/5d0378793f8e954965.png" alt="4.png"></a></p>
+<p><a href="https://i.loli.net/2019/06/14/5d0378798068310516.png"><img src="https://i.loli.net/2019/06/14/5d0378798068310516.png" alt="5.png"></a></p>
+<p><a href="https://i.loli.net/2019/06/14/5d037879a444d31714.png"><img src="https://i.loli.net/2019/06/14/5d037879a444d31714.png" alt="6.png"></a></p>
+<h1 id="strategy-concept">STRATEGY &amp; CONCEPT</h1>
+<p><a href="https://etd.ohiolink.edu/pg_10?::NO:10:P10_ETD_SUBID:162857">A research which referred to an existing public perception of Alzheimer’s disease in China</a> at the beginning of this project.  Studies on reasons, personas, experience map of delivering caregiving service are in the following slides.</p>
+<p><a href="https://i.loli.net/2019/06/14/5d0378793154535879.jpg"><img src="https://i.loli.net/2019/06/14/5d0378793154535879.jpg" alt="7.jpg"></a>
+<br></p>
+<p>Based on the research findings, information architecture, wireframes, user flow and storyboard for the whole digital experience followed.
+<br>
+Two digital experience — mobile application for communication and service searching &amp; website for knowledge promotion — are proposed to boost the public awareness on Alzheimer’s disease and minimize the societal-isolation that caused by the disease.
+<br></p>
+<p><a href="https://i.loli.net/2019/06/14/5d037c66e9c3668914.jpg"><img src="https://i.loli.net/2019/06/14/5d037c66e9c3668914.jpg" alt="8.jpg"></a>
+<a href="https://i.loli.net/2019/06/14/5d037c66e0c4b95999.jpg"><img src="https://i.loli.net/2019/06/14/5d037c66e0c4b95999.jpg" alt="9.jpg"></a>
+<br></p>
+<h1 id="1build-up-community-with-approachable-knowledge-storypotorg">1.Build up community with approachable knowledge - StoryPot.org</h1>
+<p>The appearance of website, was structured into a series of questions with supportive encyclopedia about Alzheimer’s which build a general understanding for an engaging experience on the users.
+The end of survey will assess the participants' knowledge level and lead them to consider about the next steps.
+<br></p>
+<p><a href="https://i.loli.net/2019/06/14/5d0380feac03f34934.png"><img src="https://i.loli.net/2019/06/14/5d0380feac03f34934.png" alt="19.png"></a></p>
+<p><a href="https://i.loli.net/2019/06/14/5d037f5e77a6382031.png"><img src="https://i.loli.net/2019/06/14/5d037f5e77a6382031.png" alt="17.png"></a>
+<a href="https://i.loli.net/2019/06/14/5d037f5e71a2c62251.png"><img src="https://i.loli.net/2019/06/14/5d037f5e71a2c62251.png" alt="18.png"></a></p>
+<h1 id="2-speak-listen-and-collaborate">2. Speak, Listen and Collaborate</h1>
+<p>The mobile application is designed to increase the accessibility of information about Alzheimer's disease to eliminate the social isolation.
+<br>
+It is a user backend to connect the people who are already/potentially affected by the Alzheimer's, like the families, professionals, volunteers, etc. With this approach, all the communities can reach the authentic stories and experience about the Alzheimer's. Meanwhile, the users can easily locate, engage and manage related campaigns and service to support themselves when necessary.</p>
+<p><a href="https://i.loli.net/2019/06/14/5d037878c04a969125.png"><img src="https://i.loli.net/2019/06/14/5d037878c04a969125.png" alt="10.png"></a></p>
+<h1 id="social-engagement">Social Engagement</h1>
+<ol>
+<li>
+<p>Stories, functioning as the catalyst to open the heart of both Alzheimer's affected persons and Alzheimer's-resisted groups, can also prompt the elimination of social isolations.</p>
+</li>
+<li>
+<p>Communication on the platform increase the efficiency of information accessibility, expand the networking and introduce more possibilities to problem-solving.</p>
+</li>
+<li>
+<p>Bringing the resources of related campaigns, organization and services to satisfy the offline needs.</p>
+</li>
+</ol>
+<p><a href="https://i.loli.net/2019/06/14/5d037c6725d4b72718.png"><img src="https://i.loli.net/2019/06/14/5d037c6725d4b72718.png" alt="11.png"></a>
+<a href="https://i.loli.net/2019/06/14/5d037c65deeb937404.png"><img src="https://i.loli.net/2019/06/14/5d037c65deeb937404.png" alt="12.png"></a>
+<a href="https://i.loli.net/2019/06/14/5d037c66b086578748.png"><img src="https://i.loli.net/2019/06/14/5d037c66b086578748.png" alt="13.png"></a>
+<a href="https://i.loli.net/2019/06/14/5d037c676271142977.jpg"><img src="https://i.loli.net/2019/06/14/5d037c676271142977.jpg" alt="14.jpg"></a>
+<a href="https://i.loli.net/2019/06/14/5d037c66ee52f89364.png"><img src="https://i.loli.net/2019/06/14/5d037c66ee52f89364.png" alt="15.png"></a>
+<a href="https://i.loli.net/2019/06/14/5d037f5f815e340488.png"><img src="https://i.loli.net/2019/06/14/5d037f5f815e340488.png" alt="16.png"></a></p>
+<h1 id="reflection">Reflection</h1>
+<p>At first, my goal is to design a simply communicative platform for the people who are both affected by the disease and the non-sufferers, particularly for Chinese communities, most of who know little about it, and both groups are socially separated by the disease. That the StoryPot app comes and aims to solve the severity of misunderstanding and miscommunication. However, I found the psychological rejection and lack of disease-related understanding prohibit the public to access to the relative information.
+Later, as I researched further, I found that, catching the public's attention to the disease is also as crucial as a prerequisite for those people who know little about the disease. Thus, here comes the idea of StoryPot.org.
+Improving the lives of people who are affected by the Alzheimer's disease is a life-long task. To prepare for the future in advance with generations and generations bonding, from my personal opinion, is the key to end it.</p>
+<h1 id="follow-up">FOLLOW UP</h1>
+<p>In terms of time limitation and explosion of existing social networking, the StoryPot App is looking for a better way to launch. However, the great news is, the clinicians ( who I talked with during the research stage) and I built a temporary chatting group on the most popular SNS in China. Until April 2018, 78 persons (including young individuals and family members) have been in this group and share all the info about Alzheimer's from time to time. Another notable news is, the StoryPot.org is on the list of construction.</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Article] Self-reflection from my Internship]]></title>
         <id>https://oopspatty.github.io/post/internship</id>
@@ -65,7 +133,7 @@
         <link href="https://oopspatty.github.io/post/kenwood">
         </link>
         <updated>2017-08-11T13:36:47.000Z</updated>
-        <content type="html"><![CDATA[<p>The Kenwood - it is a system design project based on design thinking that I was interning in 2017 at <a href="http://livewellcollaborative.org">Live Well Collaborative</a>. Collaborated with a local senior living facility, The Kenwood by Senior Star, we were asked to redefine the emergency exit door environment for the independent-living senior residents with dementia.</p>
+        <content type="html"><![CDATA[<p>Now you are reading a system design story based on design thinking that I was interning in 2017 at <a href="http://livewellcollaborative.org">Live Well Collaborative</a>. Collaborated with a local senior living facility, The Kenwood by Senior Star, we were asked to redefine the emergency exit door environment for the independent-living senior residents with dementia.</p>
 <p><a href="https://i.loli.net/2019/05/21/5ce402f35f9c380124.png"><img src="https://i.loli.net/2019/05/21/5ce402f35f9c380124.png" alt="Kenwood_floor_plan"></a></p>
 <p>The Kenwood by Senior Star is proud to serve as a valuable senior residential assisted living resource for all Cincinnati families. In the second floor of care building lives movable demented residents. Due to <strong>overworked staff</strong>, taking care of the demented residents becomes more challenged. Plus the <strong>complicated interior environment</strong>, that the residents with dementia tend to easily roam around and come through the emergency exit door lead <strong>potential risks</strong> on the innocent residents.</p>
 <br>
