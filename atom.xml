@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://oopspatty.github.io</id>
     <title>Patty&apos;s Portfolio</title>
-    <updated>2019-06-14T11:59:48.946Z</updated>
+    <updated>2019-06-14T12:12:40.763Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://oopspatty.github.io"/>
     <link rel="self" href="https://oopspatty.github.io/atom.xml"/>
@@ -53,7 +53,7 @@ The end of survey will assess the participants' knowledge level and lead them to
 <br>
 It is a user backend to connect the people who are already/potentially affected by the Alzheimer's, like the families, professionals, volunteers, etc. With this approach, all the communities can reach the authentic stories and experience about the Alzheimer's. Meanwhile, the users can easily locate, engage and manage related campaigns and service to support themselves when necessary.</p>
 <p><a href="https://i.loli.net/2019/06/14/5d037878c04a969125.png"><img src="https://i.loli.net/2019/06/14/5d037878c04a969125.png" alt="10.png"></a></p>
-<h1 id="social-engagement">Social Engagement</h1>
+<h2 id="social-engagement">Social Engagement</h2>
 <ol>
 <li>
 <p>Stories, functioning as the catalyst to open the heart of both Alzheimer's affected persons and Alzheimer's-resisted groups, can also prompt the elimination of social isolations.</p>
@@ -83,7 +83,20 @@ Improving the lives of people who are affected by the Alzheimer's disease is a l
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[Article] Self-reflection from my Internship]]></title>
+        <title type="html"><![CDATA[Goblin App - Your Mood Recorder & Guidance]]></title>
+        <id>https://oopspatty.github.io/post/goblin-app</id>
+        <link href="https://oopspatty.github.io/post/goblin-app">
+        </link>
+        <updated>2017-12-08T12:03:44.000Z</updated>
+        <content type="html"><![CDATA[<p><a href="https://i.loli.net/2019/06/14/5d038e1ad4e1070998.png"><img src="https://i.loli.net/2019/06/14/5d038e1ad4e1070998.png" alt="2.png"></a>
+<a href="https://i.loli.net/2019/06/14/5d038e1b3990375273.jpg"><img src="https://i.loli.net/2019/06/14/5d038e1b3990375273.jpg" alt="3.jpg"></a>
+<a href="https://i.loli.net/2019/06/14/5d038e1bb38e843058.jpg"><img src="https://i.loli.net/2019/06/14/5d038e1bb38e843058.jpg" alt="4.jpg"></a>
+<a href="https://i.loli.net/2019/06/14/5d038e1c0b75278655.png"><img src="https://i.loli.net/2019/06/14/5d038e1c0b75278655.png" alt="5.png"></a>
+<a href="https://i.loli.net/2019/06/14/5d038e1bd846761660.png"><img src="https://i.loli.net/2019/06/14/5d038e1bd846761660.png" alt="1.png"></a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Self-reflection from my Internship]]></title>
         <id>https://oopspatty.github.io/post/internship</id>
         <link href="https://oopspatty.github.io/post/internship">
         </link>
