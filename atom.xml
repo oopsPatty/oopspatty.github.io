@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://oopspatty.github.io</id>
     <title>Patty&apos;s Portfolio</title>
-    <updated>2019-06-14T16:12:30.142Z</updated>
+    <updated>2019-06-14T16:16:10.406Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://oopspatty.github.io"/>
     <link rel="self" href="https://oopspatty.github.io/atom.xml"/>
@@ -17,18 +17,20 @@
         <link href="https://oopspatty.github.io/post/botzero">
         </link>
         <updated>2019-06-13T15:58:28.000Z</updated>
-        <content type="html"><![CDATA[<p><a href="https://i.loli.net/2019/06/14/5d03c1f0925a268123.jpeg"><img src="https://i.loli.net/2019/06/14/5d03c1f0925a268123.jpeg" alt="BotZero-cover-002.jpeg"></a>
+        <content type="html"><![CDATA[<p><a href="https://i.loli.net/2019/06/15/5d03c80c517c519625.jpeg"><img src="https://i.loli.net/2019/06/15/5d03c80c517c519625.jpeg" alt="2019-1-28-BotZero用户手册.001.jpeg"></a>
 <br>
 Unlike the traditional chatbot platforms, which prevalently require huge coding workload to develop, and the worse is, are unable to understand diverse and complicated dialogs, <strong>BotZero</strong>'s constant reinforcement learning skills easily carry multi-round conversation and assist users to complete complex task. Most important is, this virtual assistant factory only requires to input dialogs with zero code to build agents.
 <br></p>
 <hr>
 <br>
-# My adventure begins here
-BotZero is the first project after I joined Accenture SH, also my first adventure roaming in the realm of Artificial Intelligence. When I started to get my hands dirty, a rough and basic product frame already done with technical accessibility other than user experience. Thus, my first year with BotZero is all about building a greater agent curator and leveraging its usability and efficiency. Let's see how my journey went.
-<br>
-+ Story 1:
-+ Story 2:
-+ Story 3:
+<h1 id="my-adventure-begins-here">My adventure begins here</h1>
+<p>BotZero is the first project after I joined Accenture SH, also my first adventure roaming in the realm of Artificial Intelligence. When I started to get my hands dirty, a rough and basic product frame already done with technical accessibility other than user experience. Thus, my first year with BotZero is all about building a greater agent curator and leveraging its usability and efficiency. Let's see how my journey went.
+<br></p>
+<ul>
+<li>Story 1:</li>
+<li>Story 2:</li>
+<li>Story 3:</li>
+</ul>
 ]]></content>
     </entry>
     <entry>
