@@ -2,19 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://oopspatty.github.io</id>
     <title>Patty&apos;s Portfolio</title>
-    <updated>2019-06-14T11:40:15.055Z</updated>
+    <updated>2019-06-14T11:59:48.946Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://oopspatty.github.io"/>
     <link rel="self" href="https://oopspatty.github.io/atom.xml"/>
-    <subtitle>A UX pilot, sometime an illustrator. 
-&lt;br&gt; &lt;br&gt;Currently @Accenture SH Liquid Studio designing for friendly artificial intelligence</subtitle>
+    <subtitle>A UX pilot, an occasional illustrator. 
+&lt;br&gt; &lt;br&gt;Currently @AccentureLiquidStudio designing for friendly artificial intelligence</subtitle>
     <logo>https://oopspatty.github.io/images/avatar.png</logo>
     <icon>https://oopspatty.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Patty&apos;s Portfolio</rights>
     <entry>
         <title type="html"><![CDATA[StoryPot - Road to Know Alzheimer's Disease]]></title>
-        <id>https://oopspatty.github.io/post/storypot-road-to-know-alzheimers-disease</id>
-        <link href="https://oopspatty.github.io/post/storypot-road-to-know-alzheimers-disease">
+        <id>https://oopspatty.github.io/post/storypot</id>
+        <link href="https://oopspatty.github.io/post/storypot">
         </link>
         <updated>2018-06-12T10:15:58.000Z</updated>
         <content type="html"><![CDATA[<p>This is a personal project supporting my graduate thesis - Research on current public perception of Alzheimer’s disease among Chinese young generations. The research was proudly to be appreciated by Alzheimer's Association, Greater Cincinnati Chapter.</p>
@@ -70,11 +70,14 @@ It is a user backend to connect the people who are already/potentially affected 
 <a href="https://i.loli.net/2019/06/14/5d037c66b086578748.png"><img src="https://i.loli.net/2019/06/14/5d037c66b086578748.png" alt="13.png"></a>
 <a href="https://i.loli.net/2019/06/14/5d037c676271142977.jpg"><img src="https://i.loli.net/2019/06/14/5d037c676271142977.jpg" alt="14.jpg"></a>
 <a href="https://i.loli.net/2019/06/14/5d037c66ee52f89364.png"><img src="https://i.loli.net/2019/06/14/5d037c66ee52f89364.png" alt="15.png"></a>
-<a href="https://i.loli.net/2019/06/14/5d037f5f815e340488.png"><img src="https://i.loli.net/2019/06/14/5d037f5f815e340488.png" alt="16.png"></a></p>
-<h1 id="reflection">Reflection</h1>
-<p>At first, my goal is to design a simply communicative platform for the people who are both affected by the disease and the non-sufferers, particularly for Chinese communities, most of who know little about it, and both groups are socially separated by the disease. That the StoryPot app comes and aims to solve the severity of misunderstanding and miscommunication. However, I found the psychological rejection and lack of disease-related understanding prohibit the public to access to the relative information.
+<a href="https://i.loli.net/2019/06/14/5d037f5f815e340488.png"><img src="https://i.loli.net/2019/06/14/5d037f5f815e340488.png" alt="16.png"></a>
+<br></p>
+<iframe src="//invis.io/YCGYEZ54EQF" frameborder="0" allowfullscreen style="margin:0px auto;display:block;width:442px;height:935px;" class="embed-content"></iframe>
+<br>
+# Reflection
+At first, my goal is to design a simply communicative platform for the people who are both affected by the disease and the non-sufferers, particularly for Chinese communities, most of who know little about it, and both groups are socially separated by the disease. That the StoryPot app comes and aims to solve the severity of misunderstanding and miscommunication. However, I found the psychological rejection and lack of disease-related understanding prohibit the public to access to the relative information.
 Later, as I researched further, I found that, catching the public's attention to the disease is also as crucial as a prerequisite for those people who know little about the disease. Thus, here comes the idea of StoryPot.org.
-Improving the lives of people who are affected by the Alzheimer's disease is a life-long task. To prepare for the future in advance with generations and generations bonding, from my personal opinion, is the key to end it.</p>
+Improving the lives of people who are affected by the Alzheimer's disease is a life-long task. To prepare for the future in advance with generations and generations bonding, from my personal opinion, is the key to end it.
 <h1 id="follow-up">FOLLOW UP</h1>
 <p>In terms of time limitation and explosion of existing social networking, the StoryPot App is looking for a better way to launch. However, the great news is, the clinicians ( who I talked with during the research stage) and I built a temporary chatting group on the most popular SNS in China. Until April 2018, 78 persons (including young individuals and family members) have been in this group and share all the info about Alzheimer's from time to time. Another notable news is, the StoryPot.org is on the list of construction.</p>
 ]]></content>
