@@ -2,15 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://oopspatty.github.io</id>
     <title>Patty&apos;s Portfolio</title>
-    <updated>2019-06-23T13:47:29.755Z</updated>
+    <updated>2019-10-04T05:12:18.884Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://oopspatty.github.io"/>
     <link rel="self" href="https://oopspatty.github.io/atom.xml"/>
     <subtitle>A UX pilot, an occasional illustrator. 
-&lt;br&gt; &lt;br&gt;Currently @Accenture Liquid Studio designing friendly artificial intelligence</subtitle>
+&lt;br&gt; &lt;br&gt;Currently @Accenture SH Liquid Studio designing friendly artificial intelligence</subtitle>
     <logo>https://oopspatty.github.io/images/avatar.png</logo>
     <icon>https://oopspatty.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Patty&apos;s Portfolio</rights>
+    <entry>
+        <title type="html"><![CDATA[About]]></title>
+        <id>https://oopspatty.github.io/post/about</id>
+        <link href="https://oopspatty.github.io/post/about">
+        </link>
+        <updated>2019-01-25T11:09:48.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="nice-to-meet-you"><strong>Nice to meet you!</strong></h2>
+<p>Welcome to my little bumbling world 😆</p>
+<p>I am an <strong>empathy-driven experience design</strong> pilot and currently diving into hi-tech realm exploring the possibility of <strong>Artificial Intelligence</strong> to leverage the human's life and business at <!-- more --><br>
+<a href="https://www.accenture.com/us-en/capability-rapid-application-development-studio">Accenture Liquid Studio</a>.</p>
+<p>Let's talk more if you share common interest and faith with me: patriciawangtl@gmail.com.</p>
+<figure data-type="image" tabindex="1"><img src="https://oopspatty.github.io/post-images/1570161315753.JPG" alt=""></figure>
+<p><strong>Proudly served:</strong><br>
+<img src="https://oopspatty.github.io/post-images/1570165126842.png" alt=""></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[StoryPot - Road to Know Alzheimer's Disease]]></title>
         <id>https://oopspatty.github.io/post/storypot</id>
@@ -18,45 +34,45 @@
         </link>
         <updated>2018-06-12T10:15:58.000Z</updated>
         <content type="html"><![CDATA[<p>This is a personal project supporting my graduate thesis - Research on current public perception of Alzheimer’s disease among Chinese young generations. The research was proudly to be appreciated by Alzheimer's Association, Greater Cincinnati Chapter.</p>
-<p><a href="https://i.loli.net/2019/06/14/5d03787a479f511420.png"><img src="https://i.loli.net/2019/06/14/5d03787a479f511420.png" alt="1.png"></a></p>
+<figure data-type="image" tabindex="1"><a href="https://i.loli.net/2019/06/14/5d03787a479f511420.png"><img src="https://i.loli.net/2019/06/14/5d03787a479f511420.png" alt="1.png"></a></figure>
 <hr>
 <h1 id="insiders-vs-outsiders">INSIDERS vs OUTSIDERS</h1>
-<p>During my journey of research, people can be generally categorized as two groups based on that if they have the experience and prior knowledge about Alzheimer's disease or not.
-<strong>Alzheimer's Insiders</strong> - People who have/had relatives with Alzheimer's.
-<strong>Alzheimer's Outsiders</strong> - People who might not have a relative with Alzheimer's YET.
-<br>
+<p>During my journey of research, people can be generally categorized as two groups based on that if they have the experience and prior knowledge about Alzheimer's disease or not.<br>
+<strong>Alzheimer's Insiders</strong> - People who have/had relatives with Alzheimer's.<br>
+<strong>Alzheimer's Outsiders</strong> - People who might not have a relative with Alzheimer's YET.<br>
+<br><br>
 There is, however, no actual boundary between two groups of people, for instance, an individual who recently find his/her family member showing symptoms of Alzheimer's or the senior loved ones who are lately diagnosed with Alzheimer's. And, the voice from the insiders can reliably guide the outsiders to know better about the disease even what next steps to leap as long as it occurs.</p>
-<p><a href="https://i.loli.net/2019/06/14/5d03787a11b3f22962.png"><img src="https://i.loli.net/2019/06/14/5d03787a11b3f22962.png" alt="2.png"></a></p>
-<p><a href="https://i.loli.net/2019/06/14/5d037879a1d9b83476.png"><img src="https://i.loli.net/2019/06/14/5d037879a1d9b83476.png" alt="3.png"></a></p>
-<p><a href="https://i.loli.net/2019/06/14/5d0378793f8e954965.png"><img src="https://i.loli.net/2019/06/14/5d0378793f8e954965.png" alt="4.png"></a></p>
-<p><a href="https://i.loli.net/2019/06/14/5d0378798068310516.png"><img src="https://i.loli.net/2019/06/14/5d0378798068310516.png" alt="5.png"></a></p>
-<p><a href="https://i.loli.net/2019/06/14/5d037879a444d31714.png"><img src="https://i.loli.net/2019/06/14/5d037879a444d31714.png" alt="6.png"></a></p>
+<figure data-type="image" tabindex="2"><a href="https://i.loli.net/2019/06/14/5d03787a11b3f22962.png"><img src="https://i.loli.net/2019/06/14/5d03787a11b3f22962.png" alt="2.png"></a></figure>
+<figure data-type="image" tabindex="3"><a href="https://i.loli.net/2019/06/14/5d037879a1d9b83476.png"><img src="https://i.loli.net/2019/06/14/5d037879a1d9b83476.png" alt="3.png"></a></figure>
+<figure data-type="image" tabindex="4"><a href="https://i.loli.net/2019/06/14/5d0378793f8e954965.png"><img src="https://i.loli.net/2019/06/14/5d0378793f8e954965.png" alt="4.png"></a></figure>
+<figure data-type="image" tabindex="5"><a href="https://i.loli.net/2019/06/14/5d0378798068310516.png"><img src="https://i.loli.net/2019/06/14/5d0378798068310516.png" alt="5.png"></a></figure>
+<figure data-type="image" tabindex="6"><a href="https://i.loli.net/2019/06/14/5d037879a444d31714.png"><img src="https://i.loli.net/2019/06/14/5d037879a444d31714.png" alt="6.png"></a></figure>
 <br>
 <h1 id="strategy-concept">STRATEGY &amp; CONCEPT</h1>
-<p><a href="https://etd.ohiolink.edu/pg_10?::NO:10:P10_ETD_SUBID:162857">A research which referred to an existing public perception of Alzheimer’s disease in China</a> at the beginning of this project.  Studies on reasons, personas, experience map of delivering caregiving service are in the following slides.
+<p><a href="https://etd.ohiolink.edu/pg_10?::NO:10:P10_ETD_SUBID:162857">A research which referred to an existing public perception of Alzheimer’s disease in China</a> at the beginning of this project.  Studies on reasons, personas, experience map of delivering caregiving service are in the following slides.<br>
 <br></p>
-<p><a href="https://i.loli.net/2019/06/14/5d0378793154535879.jpg"><img src="https://i.loli.net/2019/06/14/5d0378793154535879.jpg" alt="7.jpg"></a>
+<p><a href="https://i.loli.net/2019/06/14/5d0378793154535879.jpg"><img src="https://i.loli.net/2019/06/14/5d0378793154535879.jpg" alt="7.jpg"></a><br>
 <br></p>
-<p>Based on the research findings, information architecture, wireframes, user flow and storyboard for the whole digital experience followed.
-<br>
-Two digital experience — mobile application for communication and service searching &amp; website for knowledge promotion — are proposed to boost the public awareness on Alzheimer’s disease and minimize the societal-isolation that caused by the disease.
+<p>Based on the research findings, information architecture, wireframes, user flow and storyboard for the whole digital experience followed.<br>
+<br><br>
+Two digital experience — mobile application for communication and service searching &amp; website for knowledge promotion — are proposed to boost the public awareness on Alzheimer’s disease and minimize the societal-isolation that caused by the disease.<br>
 <br></p>
-<p><a href="https://i.loli.net/2019/06/14/5d037c66e9c3668914.jpg"><img src="https://i.loli.net/2019/06/14/5d037c66e9c3668914.jpg" alt="8.jpg"></a>
-<a href="https://i.loli.net/2019/06/14/5d037c66e0c4b95999.jpg"><img src="https://i.loli.net/2019/06/14/5d037c66e0c4b95999.jpg" alt="9.jpg"></a>
+<p><a href="https://i.loli.net/2019/06/14/5d037c66e9c3668914.jpg"><img src="https://i.loli.net/2019/06/14/5d037c66e9c3668914.jpg" alt="8.jpg"></a><br>
+<a href="https://i.loli.net/2019/06/14/5d037c66e0c4b95999.jpg"><img src="https://i.loli.net/2019/06/14/5d037c66e0c4b95999.jpg" alt="9.jpg"></a><br>
 <br></p>
 <h1 id="1build-up-community-with-approachable-knowledge-storypotorg">1.Build up community with approachable knowledge - StoryPot.org</h1>
-<p>The appearance of website, was structured into a series of questions with supportive encyclopedia about Alzheimer’s which build a general understanding for an engaging experience on the users.
-The end of survey will assess the participants' knowledge level and lead them to consider about the next steps.
+<p>The appearance of website, was structured into a series of questions with supportive encyclopedia about Alzheimer’s which build a general understanding for an engaging experience on the users.<br>
+The end of survey will assess the participants' knowledge level and lead them to consider about the next steps.<br>
 <br></p>
-<p><a href="https://i.loli.net/2019/06/14/5d0380feac03f34934.png"><img src="https://i.loli.net/2019/06/14/5d0380feac03f34934.png" alt="19.png"></a></p>
-<p><a href="https://i.loli.net/2019/06/14/5d037f5e77a6382031.png"><img src="https://i.loli.net/2019/06/14/5d037f5e77a6382031.png" alt="17.png"></a>
-<a href="https://i.loli.net/2019/06/14/5d037f5e71a2c62251.png"><img src="https://i.loli.net/2019/06/14/5d037f5e71a2c62251.png" alt="18.png"></a>
+<figure data-type="image" tabindex="7"><a href="https://i.loli.net/2019/06/14/5d0380feac03f34934.png"><img src="https://i.loli.net/2019/06/14/5d0380feac03f34934.png" alt="19.png"></a></figure>
+<p><a href="https://i.loli.net/2019/06/14/5d037f5e77a6382031.png"><img src="https://i.loli.net/2019/06/14/5d037f5e77a6382031.png" alt="17.png"></a><br>
+<a href="https://i.loli.net/2019/06/14/5d037f5e71a2c62251.png"><img src="https://i.loli.net/2019/06/14/5d037f5e71a2c62251.png" alt="18.png"></a><br>
 <br></p>
 <h1 id="2-speak-listen-and-collaborate">2. Speak, Listen and Collaborate</h1>
-<p>The mobile application is designed to increase the accessibility of information about Alzheimer's disease to eliminate the social isolation.
-<br>
+<p>The mobile application is designed to increase the accessibility of information about Alzheimer's disease to eliminate the social isolation.<br>
+<br><br>
 It is a user backend to connect the people who are already/potentially affected by the Alzheimer's, like the families, professionals, volunteers, etc. With this approach, all the communities can reach the authentic stories and experience about the Alzheimer's. Meanwhile, the users can easily locate, engage and manage related campaigns and service to support themselves when necessary.</p>
-<p><a href="https://i.loli.net/2019/06/14/5d037878c04a969125.png"><img src="https://i.loli.net/2019/06/14/5d037878c04a969125.png" alt="10.png"></a>
+<p><a href="https://i.loli.net/2019/06/14/5d037878c04a969125.png"><img src="https://i.loli.net/2019/06/14/5d037878c04a969125.png" alt="10.png"></a><br>
 <br></p>
 <h2 id="social-engagement">Social Engagement</h2>
 <ol>
@@ -70,18 +86,18 @@ It is a user backend to connect the people who are already/potentially affected 
 <p>Bringing the resources of related campaigns, organization and services to satisfy the offline needs.</p>
 </li>
 </ol>
-<p><a href="https://i.loli.net/2019/06/14/5d037c6725d4b72718.png"><img src="https://i.loli.net/2019/06/14/5d037c6725d4b72718.png" alt="11.png"></a>
-<a href="https://i.loli.net/2019/06/14/5d037c65deeb937404.png"><img src="https://i.loli.net/2019/06/14/5d037c65deeb937404.png" alt="12.png"></a>
-<a href="https://i.loli.net/2019/06/14/5d037c66b086578748.png"><img src="https://i.loli.net/2019/06/14/5d037c66b086578748.png" alt="13.png"></a>
-<a href="https://i.loli.net/2019/06/14/5d037c676271142977.jpg"><img src="https://i.loli.net/2019/06/14/5d037c676271142977.jpg" alt="14.jpg"></a>
-<a href="https://i.loli.net/2019/06/14/5d037c66ee52f89364.png"><img src="https://i.loli.net/2019/06/14/5d037c66ee52f89364.png" alt="15.png"></a>
-<a href="https://i.loli.net/2019/06/14/5d037f5f815e340488.png"><img src="https://i.loli.net/2019/06/14/5d037f5f815e340488.png" alt="16.png"></a>
+<p><a href="https://i.loli.net/2019/06/14/5d037c6725d4b72718.png"><img src="https://i.loli.net/2019/06/14/5d037c6725d4b72718.png" alt="11.png"></a><br>
+<a href="https://i.loli.net/2019/06/14/5d037c65deeb937404.png"><img src="https://i.loli.net/2019/06/14/5d037c65deeb937404.png" alt="12.png"></a><br>
+<a href="https://i.loli.net/2019/06/14/5d037c66b086578748.png"><img src="https://i.loli.net/2019/06/14/5d037c66b086578748.png" alt="13.png"></a><br>
+<a href="https://i.loli.net/2019/06/14/5d037c676271142977.jpg"><img src="https://i.loli.net/2019/06/14/5d037c676271142977.jpg" alt="14.jpg"></a><br>
+<a href="https://i.loli.net/2019/06/14/5d037c66ee52f89364.png"><img src="https://i.loli.net/2019/06/14/5d037c66ee52f89364.png" alt="15.png"></a><br>
+<a href="https://i.loli.net/2019/06/14/5d037f5f815e340488.png"><img src="https://i.loli.net/2019/06/14/5d037f5f815e340488.png" alt="16.png"></a><br>
 <br></p>
 <iframe src="//invis.io/YCGYEZ54EQF" frameborder="0" allowfullscreen style="margin:0px auto;display:block;width:442px;height:935px;" class="embed-content"></iframe>
 <br>
 <hr>
 <h1 id="reflection">Reflection</h1>
-<p>My original intention is to design a simply communicative platform to solve the understanding issue for the people who are both affected by the disease and the non-sufferers, particularly for Chinese communities - most of who know little about it - and both groups are socially separated by the disease. That the StoryPot app came to my mind to resolve the severity of misunderstanding and miscommunication. As my research went deeper, however, I found the psychological rejection and lack of understanding prohibit the public to access to the disease-related information. Further as I researched, how to catch the public's attention to the disease is also as crucial as a prerequisite for those people who know little about the disease. Thus, here comes the idea of StoryPot.org.
+<p>My original intention is to design a simply communicative platform to solve the understanding issue for the people who are both affected by the disease and the non-sufferers, particularly for Chinese communities - most of who know little about it - and both groups are socially separated by the disease. That the StoryPot app came to my mind to resolve the severity of misunderstanding and miscommunication. As my research went deeper, however, I found the psychological rejection and lack of understanding prohibit the public to access to the disease-related information. Further as I researched, how to catch the public's attention to the disease is also as crucial as a prerequisite for those people who know little about the disease. Thus, here comes the idea of StoryPot.org.<br>
 <br></p>
 <p>Improving the lives of people who are affected by the Alzheimer's disease is a life-long task. To prepare for the future in advance with generations and generations bonding is the key to end it.</p>
 <h1 id="follow-up">FOLLOW UP</h1>
@@ -94,10 +110,10 @@ It is a user backend to connect the people who are already/potentially affected 
         <link href="https://oopspatty.github.io/post/goblin-app">
         </link>
         <updated>2017-12-08T12:03:44.000Z</updated>
-        <content type="html"><![CDATA[<p><a href="https://i.loli.net/2019/06/14/5d038e1ad4e1070998.png"><img src="https://i.loli.net/2019/06/14/5d038e1ad4e1070998.png" alt="2.png"></a>
-<a href="https://i.loli.net/2019/06/14/5d038e1b3990375273.jpg"><img src="https://i.loli.net/2019/06/14/5d038e1b3990375273.jpg" alt="3.jpg"></a>
-<a href="https://i.loli.net/2019/06/14/5d038e1bb38e843058.jpg"><img src="https://i.loli.net/2019/06/14/5d038e1bb38e843058.jpg" alt="4.jpg"></a>
-<a href="https://i.loli.net/2019/06/14/5d038e1c0b75278655.png"><img src="https://i.loli.net/2019/06/14/5d038e1c0b75278655.png" alt="5.png"></a>
+        <content type="html"><![CDATA[<p><a href="https://i.loli.net/2019/06/14/5d038e1ad4e1070998.png"><img src="https://i.loli.net/2019/06/14/5d038e1ad4e1070998.png" alt="2.png"></a><br>
+<a href="https://i.loli.net/2019/06/14/5d038e1b3990375273.jpg"><img src="https://i.loli.net/2019/06/14/5d038e1b3990375273.jpg" alt="3.jpg"></a><br>
+<a href="https://i.loli.net/2019/06/14/5d038e1bb38e843058.jpg"><img src="https://i.loli.net/2019/06/14/5d038e1bb38e843058.jpg" alt="4.jpg"></a><br>
+<a href="https://i.loli.net/2019/06/14/5d038e1c0b75278655.png"><img src="https://i.loli.net/2019/06/14/5d038e1c0b75278655.png" alt="5.png"></a><br>
 <a href="https://i.loli.net/2019/06/14/5d038e1bd846761660.png"><img src="https://i.loli.net/2019/06/14/5d038e1bd846761660.png" alt="1.png"></a></p>
 ]]></content>
     </entry>
@@ -113,7 +129,7 @@ It is a user backend to connect the people who are already/potentially affected 
 <p>One was working with a local senior living facility, to redesign the emergency exit door context for residents with dementia there, which is a system design project, mostly on the basis of design thinking, and finally we came out a comprehensive and systematic solution.</p>
 </li>
 <li>
-<p>The other one was serving Cincinnati Children's Hospital for two tasks — devising a new Oncology Handbook and releasing the 1-2-3 initiative device. This project led me into printing world together with elevating my practical engineering skills, which I developed in my undergraduate time, to create a real objective for real needs. It can be said that these tasks were bitter-sweet challenges and affirmation for my all-round ability.
+<p>The other one was serving Cincinnati Children's Hospital for two tasks — devising a new Oncology Handbook and releasing the 1-2-3 initiative device. This project led me into printing world together with elevating my practical engineering skills, which I developed in my undergraduate time, to create a real objective for real needs. It can be said that these tasks were bitter-sweet challenges and affirmation for my all-round ability.<br>
 <br></p>
 </li>
 </ul>
@@ -125,27 +141,27 @@ It is a user backend to connect the people who are already/potentially affected 
 <li>Communicating and exchanging some ideas between teams in spare time, led me felt mind-opening and enriched myself from others' perspectives.</li>
 <li>Working in Live Well Collaborative also shaped me a systematic design approach, and this approach would definitely help me as well in my design career:</li>
 </ul>
-<p><a href="https://i.loli.net/2019/05/21/5ce404e6149b669660.png"><img src="https://i.loli.net/2019/05/21/5ce404e6149b669660.png" alt="Design Process"></a>
+<p><a href="https://i.loli.net/2019/05/21/5ce404e6149b669660.png"><img src="https://i.loli.net/2019/05/21/5ce404e6149b669660.png" alt="Design Process"></a><br>
 <br></p>
 <h1 id="1-understanding-the-essence-of-communication">1. Understanding the essence of communication</h1>
 <p>When starting a project, usually we set our target groups well, and begin our research —— interviewing one by one, collecting enough data and summarizing, then directly diving into design practice, ending up with beautiful slides to present. BUT, is it so smooth to achieve our goal in reality ?</p>
-<p>During my internship, communication is everywhere and you have to initiative to iterate your design method. In the project Design for Dementia, in fact, my team was not allowed to directly interview the residents with dementia. However, we interacted with stakeholders from nurses, serving staff, programers even directors. We exchanged our ideas as much as we can, of course including observation, making any effort to understand our target users and where the exact pain-points lie. In the validation stage, we further invited non-involved co-workers to test our prototypes, which in turn gave us precious feedback to iterate our work. <strong>Honestly, listening carefully to the voice from clients and stakeholders would teach you, talking breezily with other people would surprise you.</strong> 
+<p>During my internship, communication is everywhere and you have to initiative to iterate your design method. In the project Design for Dementia, in fact, my team was not allowed to directly interview the residents with dementia. However, we interacted with stakeholders from nurses, serving staff, programers even directors. We exchanged our ideas as much as we can, of course including observation, making any effort to understand our target users and where the exact pain-points lie. In the validation stage, we further invited non-involved co-workers to test our prototypes, which in turn gave us precious feedback to iterate our work. <strong>Honestly, listening carefully to the voice from clients and stakeholders would teach you, talking breezily with other people would surprise you.</strong> <br>
 <br></p>
 <h1 id="2-problem-identification-plays-important-role">2. Problem identification plays important role</h1>
-<p>For design beginner, even for some of our experienced colleagues, the circumstance of putting ourselves into delivering a solution is usual, sometimes it happened unconsciously because it's easy and clear. This unpleasant situation also bothered me before, in this case, how can we transform the way we think becomes vital.
+<p>For design beginner, even for some of our experienced colleagues, the circumstance of putting ourselves into delivering a solution is usual, sometimes it happened unconsciously because it's easy and clear. This unpleasant situation also bothered me before, in this case, how can we transform the way we think becomes vital.<br>
 <br></p>
-<p>Another example of the project Design for Dementia, we were firstly tasked to redesign the emergency exit doors because they posed a security threat to the demented residents. But why security doors were a threat? Are they really the problem we need to resolve? Embracing with such questions, we did a field trip, analyzed the context even looked up some research about elderly behaviors. One of our findings came out that the emergency door attracted residents to explore because, to some extend, they were forbidden to go outside by the staff for the personal safety consideration! How paradoxical the reason it is, right? Knowing that key info, our team just changed the way we think of the problem —— why don't we try to make this problem become a problem-solving? That's what leading us came out a partial solution in our solution system. (To see more details about the project, click here!)
+<p>Another example of the project Design for Dementia, we were firstly tasked to redesign the emergency exit doors because they posed a security threat to the demented residents. But why security doors were a threat? Are they really the problem we need to resolve? Embracing with such questions, we did a field trip, analyzed the context even looked up some research about elderly behaviors. One of our findings came out that the emergency door attracted residents to explore because, to some extend, they were forbidden to go outside by the staff for the personal safety consideration! How paradoxical the reason it is, right? Knowing that key info, our team just changed the way we think of the problem —— why don't we try to make this problem become a problem-solving? That's what leading us came out a partial solution in our solution system. (To see more details about the project, click here!)<br>
 <br></p>
-<p>It is common to get lost while doing research and trying to jump to the solution. But <strong>the problem identification and exploration can lead you to the place that you never be even you never realize, also bring you unexpected growth that can affect your whole life.</strong> 
+<p>It is common to get lost while doing research and trying to jump to the solution. But <strong>the problem identification and exploration can lead you to the place that you never be even you never realize, also bring you unexpected growth that can affect your whole life.</strong> <br>
 <br></p>
 <h1 id="3-always-be-curious-not-judgmental">3. Always be curious, not judgmental.</h1>
 <p>This is my motto, I hope it can also enlighten you a little bit. Preconceived ideas will always play a decisive role, but as a designer, embracing ambiguity and maintain curious leads you to open your mind.</p>
 <p>When doing the project Oncology Books, me and my co-work came up with several creative ideas for patients, abandoning traditional book style which we thought it's out-of-date. However, gaining feedbacks from medical staff and participants, a simple-to-use handbook with our innovative elements became the final design — Not changing users behaviors while bringing much convenience for users to achieve the goal — which guarantee the useful and feasible features for both sides.</p>
-<p>It's really frustrated sometimes when your solution was not selected as the final one. But this is not a bad end, right? See this situation in a different way: Is the solution a final desicive one? Is there any problem that the solution did not cover? Does the solution really solve the main problem that bothering your client? Can you learn something new from the selected solution?
+<p>It's really frustrated sometimes when your solution was not selected as the final one. But this is not a bad end, right? See this situation in a different way: Is the solution a final desicive one? Is there any problem that the solution did not cover? Does the solution really solve the main problem that bothering your client? Can you learn something new from the selected solution?<br>
 <br></p>
 <h1 id="4-continuity">4. Continuity</h1>
 <p>I left this part as my ending part. Not just because learning is a life-long task, but also design is dynamic and continuous to work long and prosper. Design is not a math question that the answer is one-time validated, it could be being iterative forever, and get ready for that there is always a better design solution on the way.</p>
-<p><a href="https://i.loli.net/2019/05/21/5ce40569556c519598.jpg"><img src="https://i.loli.net/2019/05/21/5ce40569556c519598.jpg" alt="Photo of Family Live Well Collaborative.jpg"></a>
+<p><a href="https://i.loli.net/2019/05/21/5ce40569556c519598.jpg"><img src="https://i.loli.net/2019/05/21/5ce40569556c519598.jpg" alt="Photo of Family Live Well Collaborative.jpg"></a><br>
 <small>Commemoration after final presentation in Live Well Collaborative. Photo credits to Live Well Collaborative.</p>
 ]]></content>
     </entry>
@@ -156,45 +172,45 @@ It is a user backend to connect the people who are already/potentially affected 
         </link>
         <updated>2017-08-11T13:36:47.000Z</updated>
         <content type="html"><![CDATA[<p>Now you are reading a system design story based on design thinking that I was interning in 2017 at <a href="http://livewellcollaborative.org">Live Well Collaborative</a>. Collaborated with a local senior living facility, The Kenwood by Senior Star, we were asked to redefine the emergency exit door environment for the independent-living senior residents with dementia.</p>
-<p><a href="https://i.loli.net/2019/05/21/5ce402f35f9c380124.png"><img src="https://i.loli.net/2019/05/21/5ce402f35f9c380124.png" alt="Kenwood_floor_plan"></a></p>
+<figure data-type="image" tabindex="1"><a href="https://i.loli.net/2019/05/21/5ce402f35f9c380124.png"><img src="https://i.loli.net/2019/05/21/5ce402f35f9c380124.png" alt="Kenwood_floor_plan"></a></figure>
 <p>The Kenwood by Senior Star is proud to serve as a valuable senior residential assisted living resource for all Cincinnati families. In the second floor of care building lives movable demented residents. Due to <strong>overworked staff</strong>, taking care of the demented residents becomes more challenged. Plus the <strong>complicated interior environment</strong>, that the residents with dementia tend to easily roam around and come through the emergency exit door lead <strong>potential risks</strong> on the innocent residents.</p>
 <br>
 <h1 id="research-strategy">RESEARCH STRATEGY</h1>
 <p>Start with benchmarking the existing products and services for demented persons, interviews with working staff and observation on residents were soon organized to understand what the problem is. A dementia-affected resident's journey was illustrated to envision where the needs lie and where the opportunities are located.</p>
-<p><a href="https://i.loli.net/2019/05/21/5ce405e61ecf241598.png"><img src="https://i.loli.net/2019/05/21/5ce405e61ecf241598.png" alt="Kenwood_benchamarking"></a>
+<p><a href="https://i.loli.net/2019/05/21/5ce405e61ecf241598.png"><img src="https://i.loli.net/2019/05/21/5ce405e61ecf241598.png" alt="Kenwood_benchamarking"></a><br>
 <br></p>
-<p><a href="https://i.loli.net/2019/05/22/5ce42189907bb74033.png"><img src="https://i.loli.net/2019/05/22/5ce42189907bb74033.png" alt="Kenwood_stakeholder_map_n_value_flow"></a>
+<p><a href="https://i.loli.net/2019/05/22/5ce42189907bb74033.png"><img src="https://i.loli.net/2019/05/22/5ce42189907bb74033.png" alt="Kenwood_stakeholder_map_n_value_flow"></a><br>
 <br></p>
-<p><a href="https://i.loli.net/2019/05/21/5ce405e6afd1291464.jpg"><img src="https://i.loli.net/2019/05/21/5ce405e6afd1291464.jpg" alt="Kenwood_persona&amp;xMap"></a>
-<em>Experience map color palette inspired by Florencia Pagano.</em>
+<p><a href="https://i.loli.net/2019/05/21/5ce405e6afd1291464.jpg"><img src="https://i.loli.net/2019/05/21/5ce405e6afd1291464.jpg" alt="Kenwood_persona&amp;xMap"></a><br>
+<em>Experience map color palette inspired by Florencia Pagano.</em><br>
 <br></p>
-<p><a href="https://i.loli.net/2019/05/21/5ce40626af14668724.png"><img src="https://i.loli.net/2019/05/21/5ce40626af14668724.png" alt="Kenwood_Insight"></a>
+<p><a href="https://i.loli.net/2019/05/21/5ce40626af14668724.png"><img src="https://i.loli.net/2019/05/21/5ce40626af14668724.png" alt="Kenwood_Insight"></a><br>
 <br></p>
 <h1 id="safety-with-humanity">SAFETY WITH HUMANITY</h1>
-<p>Instead of depriving the freedom of residents, we attempted to innovate a desired relationship between residents and staff. Therefore, creating a living environment with remained dignity and security is the goal of this project.
+<p>Instead of depriving the freedom of residents, we attempted to innovate a desired relationship between residents and staff. Therefore, creating a living environment with remained dignity and security is the goal of this project.<br>
 <br></p>
-<p><a href="https://i.loli.net/2019/05/21/5ce406d388b8672211.png"><img src="https://i.loli.net/2019/05/21/5ce406d388b8672211.png" alt="Kenwood_transformation"></a>
+<p><a href="https://i.loli.net/2019/05/21/5ce406d388b8672211.png"><img src="https://i.loli.net/2019/05/21/5ce406d388b8672211.png" alt="Kenwood_transformation"></a><br>
 <br></p>
 <h1 id="solution-system">SOLUTION SYSTEM</h1>
-<p>Four concept directions below came out based on the research findings. After several rounds of iterations and user-testing with our clients, we came up with a final integrated solution system based on the four design directions.
+<p>Four concept directions below came out based on the research findings. After several rounds of iterations and user-testing with our clients, we came up with a final integrated solution system based on the four design directions.<br>
 <br></p>
-<p><a href="https://i.loli.net/2019/05/21/5ce406d38ebcb97919.jpg"><img src="https://i.loli.net/2019/05/21/5ce406d38ebcb97919.jpg" alt="Kenwood_Directions"></a>
+<p><a href="https://i.loli.net/2019/05/21/5ce406d38ebcb97919.jpg"><img src="https://i.loli.net/2019/05/21/5ce406d38ebcb97919.jpg" alt="Kenwood_Directions"></a><br>
 <br></p>
-<p><a href="https://i.loli.net/2019/05/21/5ce406d53d94225757.jpg"><img src="https://i.loli.net/2019/05/21/5ce406d53d94225757.jpg" alt="Kenwood_SoultionSystem"></a>
+<p><a href="https://i.loli.net/2019/05/21/5ce406d53d94225757.jpg"><img src="https://i.loli.net/2019/05/21/5ce406d53d94225757.jpg" alt="Kenwood_SoultionSystem"></a><br>
 <br></p>
 <h1 id="co-design">CO-DESIGN</h1>
-<p>10 more stakeholders were invited from the Kenwood to test the major solutions including art boxes, do stations and false window. Further, we invited peripheral volunteers to tested prototypes with sensory blockers to simulate a resident’s experience and gain new perspectives.
+<p>10 more stakeholders were invited from the Kenwood to test the major solutions including art boxes, do stations and false window. Further, we invited peripheral volunteers to tested prototypes with sensory blockers to simulate a resident’s experience and gain new perspectives.<br>
 <br></p>
-<p><strong>All the final prototypes have been put into formal use in The Kenwood since August, 2017.</strong> The “outdoor room” is on the plan of construction.
+<p><strong>All the final prototypes have been put into formal use in The Kenwood since August, 2017.</strong> The “outdoor room” is on the plan of construction.<br>
 <br></p>
-<p><a href="https://i.loli.net/2019/05/21/5ce406d440e9f13454.jpg"><img src="https://i.loli.net/2019/05/21/5ce406d440e9f13454.jpg" alt="Kenwood_Refine"></a>
+<p><a href="https://i.loli.net/2019/05/21/5ce406d440e9f13454.jpg"><img src="https://i.loli.net/2019/05/21/5ce406d440e9f13454.jpg" alt="Kenwood_Refine"></a><br>
 <br></p>
-<p><a href="https://i.loli.net/2019/05/21/5ce4081105d0439485.png"><img src="https://i.loli.net/2019/05/21/5ce4081105d0439485.png" alt="Kenwood_Feedback"></a>
+<p><a href="https://i.loli.net/2019/05/21/5ce4081105d0439485.png"><img src="https://i.loli.net/2019/05/21/5ce4081105d0439485.png" alt="Kenwood_Feedback"></a><br>
 <br></p>
 <h1 id="future-opportunities">FUTURE OPPORTUNITIES</h1>
-<p>Potential works need to think about in the future to improve the experiences of residents and their loved ones even all of working staff.
+<p>Potential works need to think about in the future to improve the experiences of residents and their loved ones even all of working staff.<br>
 <br></p>
-<p><a href="https://i.loli.net/2019/05/22/5ce422f17a49649567.jpg"><img src="https://i.loli.net/2019/05/22/5ce422f17a49649567.jpg" alt="Kenwood_Future"></a>
+<p><a href="https://i.loli.net/2019/05/22/5ce422f17a49649567.jpg"><img src="https://i.loli.net/2019/05/22/5ce422f17a49649567.jpg" alt="Kenwood_Future"></a><br>
 <br></p>
 <h1 id="reflection">REFLECTION</h1>
 <p>This project gave me a valuable opportunity to solve the problem with user-centered design from very beginning to delivery: identification, research, design and future consideration.</p>
@@ -210,8 +226,8 @@ It is a user backend to connect the people who are already/potentially affected 
         <link href="https://oopspatty.github.io/post/robotics-for-boeing">
         </link>
         <updated>2017-04-28T15:16:03.000Z</updated>
-        <content type="html"><![CDATA[<p><a href="https://i.loli.net/2019/05/21/5ce403aa5b91864882.png"><img src="https://i.loli.net/2019/05/21/5ce403aa5b91864882.png" alt="Charli.png"></a>
-<a href="https://i.loli.net/2019/05/21/5ce403e0c13a986557.png"><img src="https://i.loli.net/2019/05/21/5ce403e0c13a986557.png" alt="Charli_Medical_Feature.png"></a>
+        <content type="html"><![CDATA[<p><a href="https://i.loli.net/2019/05/21/5ce403aa5b91864882.png"><img src="https://i.loli.net/2019/05/21/5ce403aa5b91864882.png" alt="Charli.png"></a><br>
+<a href="https://i.loli.net/2019/05/21/5ce403e0c13a986557.png"><img src="https://i.loli.net/2019/05/21/5ce403e0c13a986557.png" alt="Charli_Medical_Feature.png"></a><br>
 <a href="https://i.loli.net/2019/05/21/5ce4043730a5197032.png"><img src="https://i.loli.net/2019/05/21/5ce4043730a5197032.png" alt="Mollie.png"></a></p>
 <p>This project was sponsored by Boeing Company collaborated with Live Well Collaborative.  <a href="http://livewellcollaborative.org/cabin-bot">The cabin bot Charli has proudly became patent filing since January 2018. </a> If you are interested in this project, DM me and I am more than happy to share further details with you.</p>
 ]]></content>
