@@ -1,96 +1,109 @@
+<!DOCTYPE html>
 <html>
   <head>
-    <meta charset="utf-8" />
-<meta name="description" content="" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta charset="utf-8" >
+
 <title>「Shin-shin」-Build up your inner Heroine  | Patty&#39;s Portfolio</title>
-<link rel="shortcut icon" href="https://oopspatty.github.io/favicon.ico?v=1579707304599">
+<meta name="description" content="A UX pilot, occasionally an illustrator. 
+&lt;br&gt; &lt;br&gt;Currently @Accenture SH Liquid Studio designing friendly artificial intelligence">
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+<link rel="shortcut icon" href="https://oopspatty.github.io/favicon.ico?v=1579707581949">
 <link rel="stylesheet" href="https://oopspatty.github.io/styles/main.css">
 
+
+  
+    <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css" />
+  
+
+  
+
+
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
 <script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
-<script src="https://cdn.bootcss.com/moment.js/2.23.0/moment.min.js"></script>
+
+<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+
 
 
   </head>
   <body>
-    <div class="main">
-      <div class="main-content">
-        <div class="site-header">
-  <a href="https://oopspatty.github.io">
-  <img class="avatar" src="https://oopspatty.github.io/images/avatar.png?v=1579707304599" alt="">
-  </a>
-  <h1 class="site-title">
-    Patty&#39;s Portfolio
-  </h1>
-  <p class="site-description">
-    An empathy-driven UX pilot, occasionally an illustrator. 
-<br> <br>Currently @Accenture SH Liquid Studio designing friendly artificial intelligence
-  </p>
-  <div class="menu-container">
-    
+    <div id="app" class="main">
+
+      <div class="sidebar" :class="{ 'full-height': menuVisible }">
+  <div class="top-container" data-aos="fade-right">
+    <div class="top-header-container">
+      <a class="site-title-container" href="https://oopspatty.github.io">
+        <img src="https://oopspatty.github.io/images/avatar.png?v=1579707581949" class="site-logo">
+        <h1 class="site-title">Patty&#39;s Portfolio</h1>
+      </a>
+      <div class="menu-btn" @click="menuVisible = !menuVisible">
+        <div class="line"></div>
+      </div>
+    </div>
+    <div>
       
-        <a href="https://oopspatty.github.io" class="menu">
-          Home
-        </a>
+        
+          <a href="https://oopspatty.github.io" class="site-nav">
+            Home
+          </a>
+        
       
-    
+        
+          <a href="https://oopspatty.github.io/tags" class="site-nav">
+            Tag
+          </a>
+        
       
-        <a href="https://oopspatty.github.io/tags" class="menu">
-          Tag
-        </a>
+        
+          <a href="https://oopspatty.github.io/archives" class="site-nav">
+            Archives
+          </a>
+        
       
-    
+        
+          <a href="https://oopspatty.github.io/post/about/" class="site-nav">
+            About
+          </a>
+        
       
-        <a href="https://oopspatty.github.io/archives" class="menu">
-          Archives
-        </a>
-      
-    
-      
-        <a href="https://oopspatty.github.io/post/about/" class="menu">
-          About
-        </a>
-      
-    
+    </div>
   </div>
-  <div class="social-container">
-    
+  <div class="bottom-container" data-aos="flip-up" data-aos-offset="0">
+    <div class="social-container">
       
-    
+        
       
-    
+        
       
-    
+        
       
-    
+        
       
-    
+        
+      
+    </div>
+    <div class="site-description">
+      A UX pilot, occasionally an illustrator. 
+<br> <br>Currently @Accenture SH Liquid Studio designing friendly artificial intelligence
+    </div>
+    <div class="site-footer">
+      ©2016-2020 All rights reserved by Tiaoling Wang. 
+Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a>
+    </div>
   </div>
 </div>
 
-      
-        <div class="post-detail">
-          <article class="post">
-            <h2 class="post-title">
-              「Shin-shin」-Build up your inner Heroine 
-            </h2>
-            <div class="post-info">
-              <time class="post-time">
-                · 2016-12-05 ·
-              </time>
-              
-                <a href="https://oopspatty.github.io/tag/MyDesign" class="post-tags">
-                  # Patty&#39;s Design
-                </a>
-              
-                <a href="https://oopspatty.github.io/tag/Research" class="post-tags">
-                  # Research
-                </a>
-              
-            </div>
+
+      <div class="main-container">
+        <div class="content-container" data-aos="fade-up">
+          <div class="post-detail">
+            <h2 class="post-title">「Shin-shin」-Build up your inner Heroine </h2>
+            <div class="post-date">2016-12-05</div>
             
-              <div class="post-feature-image" style="background-image: url('https://oopspatty.github.io/post-images/shinshin.jpg')">
+              <div class="feature-container" style="background-image: url('https://oopspatty.github.io/post-images/shinshin.jpg')">
               </div>
             
             <div class="post-content">
@@ -110,49 +123,77 @@
 <img src="https://oopspatty.github.io/post-images/1579331396251.jpg" alt="14-final ui-2" loading="lazy"></p>
 
             </div>
-          </article>
+            
+              <div class="tag-container">
+                
+                  <a href="https://oopspatty.github.io/tag/MyDesign" class="tag">
+                    Patty&#39;s Design
+                  </a>
+                
+                  <a href="https://oopspatty.github.io/tag/Research" class="tag">
+                    Research
+                  </a>
+                
+              </div>
+            
+            
+
+            
+              
+                <div id="gitalk-container" data-aos="fade-in"></div>
+              
+
+              
+            
+
+          </div>
+
         </div>
-    
-        
-
-        
-          
-            <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
-<script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
-
-<div id="gitalk-container"></div>
-
-<script>
-
-  var gitalk = new Gitalk({
-    clientID: 'c57a1b7d730fab86b974',
-    clientSecret: '7f3c41527271fd4685e474b4a81416e7603a2646',
-    repo: 'oopspatty.github.io',
-    owner: 'oopsPatty',
-    admin: ['oopsPatty'],
-    id: location.pathname,      // Ensure uniqueness and length less than 50
-    distractionFreeMode: false  // Facebook-like distraction free mode
-  })
-
-  gitalk.render('gitalk-container')
-
-</script>
-
-          
-
-          
-        
-    
-        <div class="site-footer">
-  ©2016-2020 All rights reserved by Tiaoling Wang. 
-Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a>
-</div>
-
-<script>
-  hljs.initHighlightingOnLoad()
-</script>
-
       </div>
     </div>
+
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+
+<script type="application/javascript">
+
+AOS.init();
+
+hljs.initHighlightingOnLoad()
+
+var app = new Vue({
+  el: '#app',
+  data: {
+    menuVisible: false,
+  },
+})
+
+</script>
+
+
+  
+  
+    <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+    <script>
+
+      var gitalk = new Gitalk({
+        clientID: 'c57a1b7d730fab86b974',
+        clientSecret: '7f3c41527271fd4685e474b4a81416e7603a2646',
+        repo: 'oopspatty.github.io',
+        owner: 'oopsPatty',
+        admin: ['oopsPatty'],
+        id: location.pathname,      // Ensure uniqueness and length less than 50
+        distractionFreeMode: false  // Facebook-like distraction free mode
+      })
+
+      gitalk.render('gitalk-container')
+
+    </script>
+  
+
+  
+
+
+
+
   </body>
 </html>
