@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://oopspatty.github.io</id>
     <title>Patty&apos;s Portfolio</title>
-    <updated>2020-01-22T12:35:00.558Z</updated>
+    <updated>2020-01-22T15:35:15.102Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://oopspatty.github.io"/>
     <link rel="self" href="https://oopspatty.github.io/atom.xml"/>
@@ -12,7 +12,7 @@
     <icon>https://oopspatty.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Patty&apos;s Portfolio</rights>
     <entry>
-        <title type="html"><![CDATA[SKODA CHINA customer journey]]></title>
+        <title type="html"><![CDATA[SKODA CHINA Customer Journey]]></title>
         <id>https://oopspatty.github.io/post/skoda-china-cj</id>
         <link href="https://oopspatty.github.io/post/skoda-china-cj">
         </link>
@@ -28,7 +28,7 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[40 days to unlock staff's innovative potential]]></title>
+        <title type="html"><![CDATA[40 Days to Unlock Staff's Innovation Potential]]></title>
         <id>https://oopspatty.github.io/post/bjmtr</id>
         <link href="https://oopspatty.github.io/post/bjmtr">
         </link>
@@ -49,20 +49,20 @@ After getting first-hand information, Accenture organized a two-day Design Think
 For defining the clear opportunities of digitalization, designers from ACN delivered a shadowing research to put themselves into staff’s shoes - observing and following their daily working routes, recording the difficulties and pain-points, collecting the measurement criteria for current business workflows, which are the basis of orientation to build a new digital platform.</p>
 <figure data-type="image" tabindex="2"><img src="https://oopspatty.github.io/post-images/1579420124178.jpeg" alt="BJ-mtr-shadowing-2" loading="lazy"></figure>
 <h1 id="chapter-3-play-to-consolidate-responsibly-prototyping-test">Chapter 3. Play to consolidate, responsibly (Prototyping &amp; Test)</h1>
-<p>We followed Agile to make quick progress. However, the end of design is not to make a beautiful interface, the optimization of a business process is not the destination of a project. Consolidation in a responsible way is an alchemy stone to make a trial of an assumption is feasible, desirable and achieve goal or not.<br>
+<p>We followed Agile to make quick progress. However, the end of design is not to make a beautiful interface, the optimization of a business process is not the destination of a project. <strong>Consolidation in a responsible way is an alchemy stone of the assumption trial, whether it is feasible, desirable and achieve goal or not.</strong><br>
 <img src="https://oopspatty.github.io/post-images/1579420517895.PNG" alt="BJ-mtr-test-1" loading="lazy"><br>
-In order to better simulate the prototype in an assumed scenarios, the ACN team invited different staff to carry out interface evaluation on the paper prototype for their own roles in the task. We also made clickable interactive prototype for the end users to experience. During the experience prototype, the Think-Out-Loud approach allowed them to express their opinions, while these voices encouraged each other to speak out and inspired the design team as well.<br>
+In order to better simulate the prototype in an assumed scenarios, the ACN team invited different staff to carry out interface evaluation on the paper prototype from their own perspectives in the task. We also made clickable interactive prototypes for the end users to experience. During the experience prototype, the Think-Out-Loud approach allowed them to express their opinions, while these voices encouraged each other participants to speak out and inspired the design team as well.<br>
 <img src="https://oopspatty.github.io/post-images/1579420530132.PNG" alt="BJ-mtr-test-2" loading="lazy"></p>
 <h1 id="chapter-4-the-outcome">Chapter 4. The outcome</h1>
 <p>The people involved initiated innovation change for BJ-MTR staff that allowed them to understand and learn how to innovate in a design-thinking-led way. Accenture team also created a framework for a repeatable innovation practice at BJ-MTR over the 3 courses of 2-week sprints - Stay agile and continuously iteration, while scene expansion and data accumulation.</p>
-<p>Another outcome was design doing. Accenture design team delivered a tangible product with transparency in information and processes, trust across departments,  efficiency and pleasure brought by digital convenience. Tangible items delivered to BJ-MTR include a report of user experience evaluation, demos for different roles and workflow, a high-fidelity interactive prototype based on the selected workflows.<br>
+<p>Another outcome was design doing. Accenture design team delivered a tangible product with transparency in information and processes, leading to trust across departments,  efficiency and pleasure brought by digital convenience. Tangible items delivered to BJ-MTR include a report of user experience evaluation, demos for different roles and workflows, a high-fidelity interactive prototype based on the selected workflows.<br>
 <img src="https://oopspatty.github.io/post-images/1579421343554.JPG" alt="BJ-mtr-final" loading="lazy"></p>
 <h1 id="chapter-x-continuous-going">Chapter X. Continuous Going</h1>
 <p>The minimum lovable service, moved forward with Digital Product Creation for task management, into the Deliver phases. There, Accenture’s delivery team will involve and start to architect through the prioritized product backlog to develop the system services. This will be followed by a release pilot.</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[About]]></title>
+        <title type="html"><![CDATA[>w< Hey, I have a message to you~]]></title>
         <id>https://oopspatty.github.io/post/about</id>
         <link href="https://oopspatty.github.io/post/about">
         </link>
@@ -229,7 +229,7 @@ It is a user backend to connect the people who are already/potentially affected 
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kenwood - System Design for a local senior living facility]]></title>
+        <title type="html"><![CDATA[Kenwood - System Design for Senior Living Facility]]></title>
         <id>https://oopspatty.github.io/post/kenwood</id>
         <link href="https://oopspatty.github.io/post/kenwood">
         </link>
