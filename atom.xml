@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://oopspatty.github.io</id>
     <title>Patty&apos;s Portfolio</title>
-    <updated>2020-01-28T09:09:13.559Z</updated>
+    <updated>2020-01-28T10:23:33.361Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://oopspatty.github.io"/>
     <link rel="self" href="https://oopspatty.github.io/atom.xml"/>
@@ -62,7 +62,7 @@ In order to better simulate the prototype in an assumed scenarios, the ACN team 
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Greetings >w< Here is a message for you~]]></title>
+        <title type="html"><![CDATA[Greetings >w< A message for you~]]></title>
         <id>https://oopspatty.github.io/post/about</id>
         <link href="https://oopspatty.github.io/post/about">
         </link>
@@ -74,7 +74,7 @@ In order to better simulate the prototype in an assumed scenarios, the ACN team 
 <figure data-type="image" tabindex="1"><img src="https://oopspatty.github.io/post-images/1580201913320.png" alt="PattyImage" loading="lazy"></figure>
 <br>
 <p><strong>Proudly served:</strong><br>
-<img src="https://oopspatty.github.io/post-images/1579708723561.png" alt="served companies" loading="lazy"></p>
+<img src="https://oopspatty.github.io/post-images/1580206992674.png" alt="logos" loading="lazy"></p>
 ]]></content>
     </entry>
     <entry>
