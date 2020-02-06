@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://oopspatty.github.io</id>
     <title>Patty&apos;s Portfolio</title>
-    <updated>2020-02-06T14:28:05.112Z</updated>
+    <updated>2020-02-06T14:33:43.263Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://oopspatty.github.io"/>
     <link rel="self" href="https://oopspatty.github.io/atom.xml"/>
@@ -313,7 +313,6 @@ It is a user backend to connect the people who are already/potentially affected 
 <img src="https://oopspatty.github.io/post-images/1579331318674.jpg" alt="10-prototype test" loading="lazy"><br>
 <img src="https://oopspatty.github.io/post-images/1579331337694.jpg" alt="11-features" loading="lazy"><br>
 <img src="https://oopspatty.github.io/post-images/1579331353144.jpg" alt="12-hi-fi" loading="lazy"><br>
-<img src="https://oopspatty.github.io/post-images/1579331379950.jpg" alt="13-final ui" loading="lazy"><br>
 <img src="https://oopspatty.github.io/post-images/1579331396251.jpg" alt="14-final ui-2" loading="lazy"></p>
 ]]></content>
     </entry>
