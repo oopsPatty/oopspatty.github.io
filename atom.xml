@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://oopspatty.github.io</id>
     <title>Patty&apos;s Portfolio</title>
-    <updated>2020-01-28T10:47:20.224Z</updated>
+    <updated>2020-02-06T14:28:05.112Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://oopspatty.github.io"/>
     <link rel="self" href="https://oopspatty.github.io/atom.xml"/>
@@ -20,10 +20,10 @@
         <content type="html"><![CDATA[<p>In order to improve auto sales decline and low brand recognition in China, VW SKODA delegated Accenture to explore and optimize the experience of China Customer Journey.</p>
 <figure data-type="image" tabindex="1"><img src="https://oopspatty.github.io/post-images/1580194384355.png" alt="skoda-personas" loading="lazy"></figure>
 <p>Starting from customer-centric service, we defined several typical <strong>architypes</strong> via in-depth interview and research, and depicted corresponding <strong>customer journey AS-IS</strong> to reflect their experience, needs and expectations.</p>
-<figure data-type="image" tabindex="2"><img src="https://oopspatty.github.io/post-images/1579527468123.jpg" alt="skoda-cj-asis" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="https://oopspatty.github.io/post-images/1580999137336.jpg" alt="skoda-cj-asis" loading="lazy"></figure>
 <p>In addition, we also organized an <strong>innovation workshop</strong> that involved stakeholders from clients and customers, to jointly create the upgraded products and service offerings, then successfully envisioned China <strong>Customer Journey To-Bes</strong>. Tangible items delivered to VW SKODA include a backlog of service offerings and concepts, Customer Journey As-Ises and To-Bes for four architypes, and a project report.</p>
-<figure data-type="image" tabindex="3"><img src="https://oopspatty.github.io/post-images/1579527484759.jpg" alt="skoda-cj-tobe" loading="lazy"></figure>
-<figure data-type="image" tabindex="4"><img src="https://oopspatty.github.io/post-images/1580194402169.png" alt="skoda-workshop" loading="lazy"></figure>
+<figure data-type="image" tabindex="3"><img src="https://oopspatty.github.io/post-images/1580194402169.png" alt="skoda-workshop" loading="lazy"></figure>
+<figure data-type="image" tabindex="4"><img src="https://oopspatty.github.io/post-images/1579527484759.jpg" alt="skoda-cj-tobe" loading="lazy"></figure>
 <p>In Accenture, we adhere to the value proposition of our clients, help Global Brands better understand their customers in local markets, enhance the brand loyalty, and facilitate digital transformation and experience optimization.</p>
 ]]></content>
     </entry>
