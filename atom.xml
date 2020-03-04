@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://oopspatty.github.io</id>
     <title>Patty&apos;s Portfolio</title>
-    <updated>2020-03-04T11:44:30.816Z</updated>
+    <updated>2020-03-04T11:57:56.473Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://oopspatty.github.io"/>
     <link rel="self" href="https://oopspatty.github.io/atom.xml"/>
@@ -33,12 +33,14 @@
         <link href="https://oopspatty.github.io/post/bjmtr">
         </link>
         <updated>2019-04-30T13:04:00.000Z</updated>
-        <content type="html"><![CDATA[<p>As a leading service provider of urban rail transit in China, the Beijing Mass Transit Railway (Aka BJ-MTR) looks for new approaches that would make the operation task management more agile, creative and innovative in their digital transformation. Thus, BJ-MTR selected Accenture Greater China to rapidly innovate disruptive and digital services on task management for front-stage staff using Design Thinking and a lean start-up approach.</p>
+        <content type="html"><![CDATA[<!-- more -->
+<p>If you want to curate corporate digitalization, you have to know who suppose to be motivated.</p>
+<p>As a leading service provider of urban rail transit in China, the Beijing Mass Transit Railway (Aka BJ-MTR) looks for new approaches that would make the operation task management more agile, creative and innovative in their digital transformation. Thus, BJ-MTR selected Accenture Greater China to rapidly innovate disruptive and digital services on task management for front-stage staff using Design Thinking and a lean start-up approach.</p>
 <figure data-type="image" tabindex="1"><img src="https://oopspatty.github.io/post-images/1579419653406.PNG" alt="Liquid Studio's Ambition" loading="lazy"></figure>
 <p>Accenture is helping BJ-MTR build the relevant knowledge, skill set, and organizational structure to ideate, develop, and implement customer-relevant <strong>minimum lovable product</strong> in a short timeframe — or fail fast.<br>
 <br></p>
 <h1 id="chapter-1-understand-our-people-interviewworkshop">Chapter 1. Understand our people (Interview+Workshop)</h1>
-<p><strong>If you want to make digital transformation, you have to know what to motivate.</strong></p>
+<p><strong>If you want to curate digital transformation, you have to know what to motivate.</strong></p>
 <p>No matter an enterprise product or a consumer product, the behaviors of the end-users are the foremost to be understood. In this circumstance, the front-stage working staff are the ones we need to empathize.</p>
 <p>And of course, knowing better about the biz workflow. Accenture team conducted the interviews with different roles for the different workflows, for better understanding the people’s needs and motivations, and the business process As-Is as well.<br>
 <img src="https://oopspatty.github.io/post-images/1579421393861.JPG" alt="BJ-mtr-workshop-1" loading="lazy"><br>
