@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://oopspatty.github.io</id>
     <title>Patty&apos;s Portfolio</title>
-    <updated>2020-03-04T12:21:21.516Z</updated>
+    <updated>2020-03-04T13:23:47.679Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://oopspatty.github.io"/>
     <link rel="self" href="https://oopspatty.github.io/atom.xml"/>
@@ -17,7 +17,10 @@
         <link href="https://oopspatty.github.io/post/skoda-china-cj">
         </link>
         <updated>2019-08-28T07:33:19.000Z</updated>
+        <summary type="html"><![CDATA[<p>In order to improve auto sales decline and low brand recognition in China, VW SKODA delegated Accenture to explore and optimize the experience of China Customer Journey.</p>
+]]></summary>
         <content type="html"><![CDATA[<p>In order to improve auto sales decline and low brand recognition in China, VW SKODA delegated Accenture to explore and optimize the experience of China Customer Journey.</p>
+<!-- more -->
 <figure data-type="image" tabindex="1"><img src="https://oopspatty.github.io/post-images/1580194384355.png" alt="skoda-personas" loading="lazy"></figure>
 <p>Starting from customer-centric service, we defined several typical <strong>architypes</strong> via in-depth interview and research, and depicted corresponding <strong>customer journey AS-IS</strong> to reflect their experience, needs and expectations.</p>
 <figure data-type="image" tabindex="2"><img src="https://oopspatty.github.io/post-images/1580999137336.jpg" alt="skoda-cj-asis" loading="lazy"></figure>
@@ -33,9 +36,9 @@
         <link href="https://oopspatty.github.io/post/bjmtr">
         </link>
         <updated>2019-04-30T13:04:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>As a leading service provider of urban rail transit in China, the Beijing Mass Transit Railway (Aka BJ-MTR) looks for new approaches that would make the operation and task management more agile, creative and innovative in their digital transformation. Thus, BJ-MTR selected Accenture Greater China to rapidly innovate disruptive and digital services on task management for front-stage staff using Design Thinking and a lean start-up approach.</p>
+        <summary type="html"><![CDATA[<p>As a leading service provider of urban rail transit in China, the Beijing Mass Transit Railway looks for new approaches that would make the internal operation and task management more agile, creative and innovative in its digital transformation. Thus, the client selected Accenture Greater China to rapidly innovate disruptive and digital services on maintenance management for front-stage staff using Design Thinking and a lean start-up approach.</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>As a leading service provider of urban rail transit in China, the Beijing Mass Transit Railway (Aka BJ-MTR) looks for new approaches that would make the operation and task management more agile, creative and innovative in their digital transformation. Thus, BJ-MTR selected Accenture Greater China to rapidly innovate disruptive and digital services on task management for front-stage staff using Design Thinking and a lean start-up approach.</p>
+        <content type="html"><![CDATA[<p>As a leading service provider of urban rail transit in China, the Beijing Mass Transit Railway looks for new approaches that would make the internal operation and task management more agile, creative and innovative in its digital transformation. Thus, the client selected Accenture Greater China to rapidly innovate disruptive and digital services on maintenance management for front-stage staff using Design Thinking and a lean start-up approach.</p>
 <!-- more -->
 <figure data-type="image" tabindex="1"><img src="https://oopspatty.github.io/post-images/1579419653406.PNG" alt="Liquid Studio's Ambition" loading="lazy"></figure>
 <p>Accenture is helping BJ-MTR build the relevant knowledge, skill set, and organizational structure to ideate, develop, and implement customer-relevant <strong>minimum lovable product</strong> in a short timeframe — or fail fast.<br>
@@ -93,7 +96,10 @@ In order to better simulate the prototype in an assumed scenarios, the ACN team 
         <link href="https://oopspatty.github.io/post/Be-with-you">
         </link>
         <updated>2018-06-27T06:47:06.000Z</updated>
+        <summary type="html"><![CDATA[<p>Using digital illustration to record the nature of moment among the relationships for my surrounding loved ones. The theme of this collection is <strong>Be with You</strong>.</p>
+]]></summary>
         <content type="html"><![CDATA[<p>Using digital illustration to record the nature of moment among the relationships for my surrounding loved ones. The theme of this collection is <strong>Be with You</strong>.</p>
+<!-- more -->
 <p><img src="https://oopspatty.github.io/post-images/1579332024753.PNG" alt="" loading="lazy"><br>
 <img src="https://oopspatty.github.io/post-images/1579332032902.PNG" alt="" loading="lazy"><br>
 <img src="https://oopspatty.github.io/post-images/1579332039568.PNG" alt="" loading="lazy"><br>
@@ -108,7 +114,10 @@ In order to better simulate the prototype in an assumed scenarios, the ACN team 
         <link href="https://oopspatty.github.io/post/storypot">
         </link>
         <updated>2018-06-12T10:15:58.000Z</updated>
+        <summary type="html"><![CDATA[<p>This is a personal project supporting my graduate thesis - Research on current public perception of Alzheimer’s disease among Chinese young generations. The research was proudly to be appreciated by Alzheimer's Association, Greater Cincinnati Chapter.</p>
+]]></summary>
         <content type="html"><![CDATA[<p>This is a personal project supporting my graduate thesis - Research on current public perception of Alzheimer’s disease among Chinese young generations. The research was proudly to be appreciated by Alzheimer's Association, Greater Cincinnati Chapter.</p>
+<!-- more -->
 <figure data-type="image" tabindex="1"><img src="https://oopspatty.github.io/post-images/1579451728046.png" alt="1-problem" loading="lazy"></figure>
 <hr>
 <h1 id="insiders-vs-outsiders">INSIDERS vs OUTSIDERS</h1>
