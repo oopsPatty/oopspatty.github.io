@@ -1,327 +1,401 @@
-<!DOCTYPE html>
-<html lang="zh-CN">
-        <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="initial-scale=1.0,user-scalable=no,minimal-ui" />
-    <title>Patty&#39;s Portfolio</title>
-<link rel='stylesheet' id='puma-css'  href='https://oopspatty.github.io/styles/main.css' type='text/css' media='screen' />
-<link rel='stylesheet' id='puma-css'  href='https://at.alicdn.com/t/font_1306644_jwtuc2zzbrd.css' media='screen' />
- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
-<script type='text/javascript' src='https://oopspatty.github.io/media/scripts/jquery.js'></script>
-<script type='text/javascript' src='https://oopspatty.github.io/media/scripts/jquery-migrate.min.js'></script>
-        <script src="https://cdn.bootcss.com/highlight.js/9.15.10/highlight.min.js"></script>
-         <script >hljs.initHighlightingOnLoad();</script>
-         
+<html>
+<head>
+    <meta charset="utf-8"/>
+<meta name="description" content=""/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>Patty&#39;s Portfolio</title>
+<link rel="shortcut icon" href="https://oopspatty.github.io/favicon.ico?v=1583329659061">
+<link href="https://cdn.bootcss.com/font-awesome/5.11.2/css/all.css" rel="stylesheet">
+<link rel="stylesheet" href="https://oopspatty.github.io/styles/main.css">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+      integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+
+<script src="https://cdn.bootcss.com/highlight.js/9.15.10/highlight.min.js"></script>
+<script src="https://cdn.bootcss.com/highlight.js/9.15.10/languages/dockerfile.min.js"></script>
+<script src="https://cdn.bootcss.com/highlight.js/9.15.10/languages/dart.min.js"></script>
+<script src="https://cdn.bootcss.com/highlight.js/9.15.10/languages/go.min.js"></script>
+<script src="https://cdn.bootcss.com/moment.js/2.23.0/moment.min.js"></script>
+<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
+        integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n"
+        crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+        integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+        crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
+        integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
+        crossorigin="anonymous"></script>
+
+<!-- DEMO JS -->
+<script src="media/scripts/index.js"></script>
+
+
+
 </head>
-<body class="home blog">
-	<!--加入跟随滑动的顶部-->
-	<header id="masthead" class="site-header" role="banner">
-		<div class="site-branding">
-			<h1 class="site-title">
-				<a href="https://oopspatty.github.io" title="Patty&#39;s Portfolio">Patty&#39;s Portfolio</a>
-			</h1>
-		</div>
-
-		<a class="primary-nav-trigger" href="javascript:void(0)">
-			<span class="menu-icon"></span>
-		</a>
-		
-	</header>
-    	<div class="site-navigation-wrapper">
-		<nav id="site-navigation" class="main-navigation" role="navigation">
-			<ul class="primary-nav">
+<body>
+<div class="main gt-bg-theme-color-first">
+    <div class="main-content">
+        <nav class="navbar navbar-expand-lg">
+    <div class="navbar-brand">
+        <img class="user-avatar" src="/images/avatar.png" alt="头像">
+        <div class="site-name gt-c-content-color-first">
+            Patty&#39;s Portfolio
+        </div>
+    </div>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <i class="fas fa-bars gt-c-content-color-first" style="font-size: 18px"></i>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <div class="navbar-nav mr-auto" style="text-align: center">
+            
+                <div class="nav-item">
                     
-				<li id="menu-item-30" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30"><a title="Home" href="https://oopspatty.github.io">Home</a></li>
+                        <a href="https://oopspatty.github.io" class="menu gt-a-link">
+                            Home
+                        </a>
+                    
+                </div>
+            
+                <div class="nav-item">
+                    
+                        <a href="https://oopspatty.github.io/tags" class="menu gt-a-link">
+                            Tags
+                        </a>
+                    
+                </div>
+            
+                <div class="nav-item">
+                    
+                        <a href="https://oopspatty.github.io/archives" class="menu gt-a-link">
+                            Archive
+                        </a>
+                    
+                </div>
+            
+                <div class="nav-item">
+                    
+                        <a href="https://oopspatty.github.io/post/about/" class="menu gt-a-link">
+                            About
+                        </a>
+                    
+                </div>
+            
+        </div>
+    </div>
+</nav>
+
+        <div class="post-list-container">
+    <div class="post-inner">
+        
+            <div class="post gt-bg-theme-color-second">
+                <div class="post-left">
+                    <div>
+                        
+                            <span class="sticky-top-flag gt-bg-accent-color-first">置顶</span>
+                        
+                        <a href="https://oopspatty.github.io/post/about">
+                            <span class="post-title gt-c-content-color-first">Greetings &gt;w&lt; A message for you~</span>
+                        </a>
+                    </div>
+                    <div class="gt-post-content post-abstract gt-c-content-color-second">
+                        <blockquote>
+<p>Welcome to my little bumbling world 😆</p>
+</blockquote>
+<h2 id="nice-to-meet-you"><strong>Nice to meet you!</strong></h2>
+
+                    </div>
+                    <div class="post-info">
+                        <time class="post-time gt-c-content-color-first">
+                            发布于 · 2019-01-25 ·
+                        </time>
+                        
+                    </div>
+                </div>
                 
-				<li id="menu-item-30" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30"><a title="Tags" href="https://oopspatty.github.io/tags">Tags</a></li>
+            </div>
+        
+            <div class="post gt-bg-theme-color-second">
+                <div class="post-left">
+                    <div>
+                        
+                        <a href="https://oopspatty.github.io/post/skoda-china-cj">
+                            <span class="post-title gt-c-content-color-first">SKODA CHINA Customer Journey</span>
+                        </a>
+                    </div>
+                    <div class="gt-post-content post-abstract gt-c-content-color-second">
+                        <p>In order to improve auto sales decline and low brand recognition in China, VW SAIC SKODA delegated Accenture to explore and optimize the experience of China Customer Journey.</p>
+
+                    </div>
+                    <div class="post-info">
+                        <time class="post-time gt-c-content-color-first">
+                            发布于 · 2019-08-28 ·
+                        </time>
+                        
+                            <a href="https://oopspatty.github.io/tag/design-thinking" class="post-tag">
+                                # Design Thinking
+                            </a>
+                        
+                            <a href="https://oopspatty.github.io/tag/Research" class="post-tag">
+                                # Research
+                            </a>
+                        
+                            <a href="https://oopspatty.github.io/tag/life" class="post-tag">
+                                # Designing Life
+                            </a>
+                        
+                    </div>
+                </div>
                 
-				<li id="menu-item-30" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30"><a title="Archive" href="https://oopspatty.github.io/archives">Archive</a></li>
+                    <a href="https://oopspatty.github.io/post/skoda-china-cj" class="post-feature-image"
+                       style="background-image: url('https://oopspatty.github.io/post-images/skoda-china-cj.jpg')">
+                    </a>
                 
-				<li id="menu-item-30" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30"><a title="About" href="https://oopspatty.github.io/post/about/">About</a></li>
+            </div>
+        
+            <div class="post gt-bg-theme-color-second">
+                <div class="post-left">
+                    <div>
+                        
+                        <a href="https://oopspatty.github.io/post/bjmtr">
+                            <span class="post-title gt-c-content-color-first">40 Days to Unlock Staff&#39;s Potential of Innovation</span>
+                        </a>
+                    </div>
+                    <div class="gt-post-content post-abstract gt-c-content-color-second">
+                        <p>As a leading service provider of urban rail transit in China, the Beijing Mass Transit Railway looks  for new approaches that would make the internal operation and task management more agile, creative and innovative in its digital transformation.<br>
+<br></p>
+<blockquote>
+<p>Accenture is helping BJ-MTR build the relevant knowledge, skill set, and organizational structure to ideate, develop, and implement customer-relevant <strong>minimum lovable product</strong> in a short timeframe — or fail fast.</p>
+</blockquote>
+
+                    </div>
+                    <div class="post-info">
+                        <time class="post-time gt-c-content-color-first">
+                            发布于 · 2019-04-30 ·
+                        </time>
+                        
+                            <a href="https://oopspatty.github.io/tag/MyDesign" class="post-tag">
+                                # Patty&#39;s Design
+                            </a>
+                        
+                            <a href="https://oopspatty.github.io/tag/design-thinking" class="post-tag">
+                                # Design Thinking
+                            </a>
+                        
+                            <a href="https://oopspatty.github.io/tag/Research" class="post-tag">
+                                # Research
+                            </a>
+                        
+                    </div>
+                </div>
                 
-	
-			</ul>
-		</nav>			
-	</div>
-	<!--跟随滑动的顶部结束-->
-	<!--大屏banner开始-->
+            </div>
+        
+            <div class="post gt-bg-theme-color-second">
+                <div class="post-left">
+                    <div>
+                        
+                        <a href="https://oopspatty.github.io/post/Be-with-you">
+                            <span class="post-title gt-c-content-color-first">Digital illustration - Be with you</span>
+                        </a>
+                    </div>
+                    <div class="gt-post-content post-abstract gt-c-content-color-second">
+                        
+                    </div>
+                    <div class="post-info">
+                        <time class="post-time gt-c-content-color-first">
+                            发布于 · 2018-06-27 ·
+                        </time>
+                        
+                            <a href="https://oopspatty.github.io/tag/illustration" class="post-tag">
+                                # illustration
+                            </a>
+                        
+                            <a href="https://oopspatty.github.io/tag/MyDesign" class="post-tag">
+                                # Patty&#39;s Design
+                            </a>
+                        
+                    </div>
+                </div>
+                
+                    <a href="https://oopspatty.github.io/post/Be-with-you" class="post-feature-image"
+                       style="background-image: url('https://oopspatty.github.io/post-images/Be-with-you.JPG')">
+                    </a>
+                
+            </div>
+        
+            <div class="post gt-bg-theme-color-second">
+                <div class="post-left">
+                    <div>
+                        
+                        <a href="https://oopspatty.github.io/post/storypot">
+                            <span class="post-title gt-c-content-color-first">StoryPot - Road to Know Alzheimer&#39;s Disease</span>
+                        </a>
+                    </div>
+                    <div class="gt-post-content post-abstract gt-c-content-color-second">
+                        <p>This is a personal project supporting my graduate thesis - Research on current public perception of Alzheimer’s disease among Chinese young generations. The research was proudly to be appreciated by <strong>Alzheimer's Association, Greater Cincinnati Chapter</strong>.</p>
+
+                    </div>
+                    <div class="post-info">
+                        <time class="post-time gt-c-content-color-first">
+                            发布于 · 2018-06-12 ·
+                        </time>
+                        
+                            <a href="https://oopspatty.github.io/tag/MyDesign" class="post-tag">
+                                # Patty&#39;s Design
+                            </a>
+                        
+                            <a href="https://oopspatty.github.io/tag/design-thinking" class="post-tag">
+                                # Design Thinking
+                            </a>
+                        
+                            <a href="https://oopspatty.github.io/tag/Research" class="post-tag">
+                                # Research
+                            </a>
+                        
+                    </div>
+                </div>
+                
+                    <a href="https://oopspatty.github.io/post/storypot" class="post-feature-image"
+                       style="background-image: url('https://oopspatty.github.io/post-images/storypot.png')">
+                    </a>
+                
+            </div>
+        
+            <div class="post gt-bg-theme-color-second">
+                <div class="post-left">
+                    <div>
+                        
+                        <a href="https://oopspatty.github.io/post/goblin-app">
+                            <span class="post-title gt-c-content-color-first">Goblin App - Your Mood Recorder &amp; Guidance</span>
+                        </a>
+                    </div>
+                    <div class="gt-post-content post-abstract gt-c-content-color-second">
+                        
+                    </div>
+                    <div class="post-info">
+                        <time class="post-time gt-c-content-color-first">
+                            发布于 · 2017-12-08 ·
+                        </time>
+                        
+                            <a href="https://oopspatty.github.io/tag/MyDesign" class="post-tag">
+                                # Patty&#39;s Design
+                            </a>
+                        
+                    </div>
+                </div>
+                
+                    <a href="https://oopspatty.github.io/post/goblin-app" class="post-feature-image"
+                       style="background-image: url('https://oopspatty.github.io/post-images/goblin-app.png')">
+                    </a>
+                
+            </div>
+        
+            <div class="post gt-bg-theme-color-second">
+                <div class="post-left">
+                    <div>
+                        
+                        <a href="https://oopspatty.github.io/post/internship">
+                            <span class="post-title gt-c-content-color-first">Self-reflection from my Internship</span>
+                        </a>
+                    </div>
+                    <div class="gt-post-content post-abstract gt-c-content-color-second">
+                        <p>In summer 2017, I had my internship at the design agency - <a href="https://livewellcollaborative.org/">Live Well Collaborative</a>. It was a splendid time with understanding and growing-up. Working with incredible and talented people, meeting collaborators of totally different backgrounds, I had a pleasure  of learning, designing and crafting experience in a very complicated world.</p>
+
+                    </div>
+                    <div class="post-info">
+                        <time class="post-time gt-c-content-color-first">
+                            发布于 · 2017-08-30 ·
+                        </time>
+                        
+                            <a href="https://oopspatty.github.io/tag/journal" class="post-tag">
+                                # Journal
+                            </a>
+                        
+                            <a href="https://oopspatty.github.io/tag/reflection" class="post-tag">
+                                # Reflection
+                            </a>
+                        
+                            <a href="https://oopspatty.github.io/tag/life" class="post-tag">
+                                # Designing Life
+                            </a>
+                        
+                    </div>
+                </div>
+                
+            </div>
+        
+            <div class="post gt-bg-theme-color-second">
+                <div class="post-left">
+                    <div>
+                        
+                        <a href="https://oopspatty.github.io/post/kenwood">
+                            <span class="post-title gt-c-content-color-first">Kenwood - System Design for Senior Living Facility</span>
+                        </a>
+                    </div>
+                    <div class="gt-post-content post-abstract gt-c-content-color-second">
+                        <p>The Kenwood by Senior Star is proud to serve as a valuable senior residential assisted living resource for all Cincinnati families. In  the second floor of care building lives movable demented residents.</p>
+
+                    </div>
+                    <div class="post-info">
+                        <time class="post-time gt-c-content-color-first">
+                            发布于 · 2017-08-11 ·
+                        </time>
+                        
+                            <a href="https://oopspatty.github.io/tag/MyDesign" class="post-tag">
+                                # Patty&#39;s Design
+                            </a>
+                        
+                            <a href="https://oopspatty.github.io/tag/design-thinking" class="post-tag">
+                                # Design Thinking
+                            </a>
+                        
+                            <a href="https://oopspatty.github.io/tag/Research" class="post-tag">
+                                # Research
+                            </a>
+                        
+                    </div>
+                </div>
+                
+            </div>
+        
+    </div>
+</div>
+
+        <div class="pagination-container">
     
-	<div class="site-banner u-textAlignCenter hasImage" style="background-image:url(https://images.unsplash.com/photo-1455659817273-f96807779a8a?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=1500&amp;q=80)">
-		<div class="fade-cover"></div>
-		<div class="banner-txt">
-			<h2>Patty&#39;s Portfolio</h2>
-		</div>
-		<div class="banner-txt">
-			<p>A UX pilot, sometimes an illustrator. 
-<br> <br>Currently @Accenture SH Liquid Studio designing friendly artificial intelligence</p>
-		</div>	
-	</div>
-	<!--大屏banner结束-->
-	<div class="site-main">
-	<div class="surface-content">    <main class="main-content">
-        <section class="blockGroup">
-                
-            <article class="block block--inset block--list">
-    <h2 class="block-title post-featured" itemprop="headline">
-        <a href="https://oopspatty.github.io/post/about">Greetings &gt;w&lt; A message for you~</a>
-    </h2>
-    <div class="block-postMetaWrap u-textAlignCenter">
-        <time>2019-01-25</time>
-    </div>
-    <div class="block-snippet block-snippet--subtitle grap" itemprop="about">
+    
+        <a href="https://oopspatty.github.io/page/2" class="prev-page gt-a-link">下一页</a>
+    
+</div>
+
+
+        <div class="site-footer gt-c-content-color-first">
+    <div class="slogan gt-c-content-color-first">A UX pilot, sometimes an illustrator. 
+<br> <br>Currently @Accenture SH Liquid Studio designing friendly artificial intelligence</div>
+    <div class="social-container">
+        
             
-                    
-                <p class="u-textAlignCenter"><a class="more-link" href="https://oopspatty.github.io/post/about" title="Greetings &gt;w&lt; A message for you~">READ MORE</a></p>
-    </div>
-    <div class="block-footer">
-        In 
-        <div class="block-footer-inner">
-                1 min read .
-        </div>
-    </div>
-</article>
-
-            <article class="block block--inset block--list">
-    <h2 class="block-title post-featured" itemprop="headline">
-        <a href="https://oopspatty.github.io/post/skoda-china-cj">SKODA CHINA Customer Journey</a>
-    </h2>
-    <div class="block-postMetaWrap u-textAlignCenter">
-        <time>2019-08-28</time>
-    </div>
-    <div class="block-snippet block-snippet--subtitle grap" itemprop="about">
+        
             
-                    <p class="with-img"><img width="1139" height="759" src="https://oopspatty.github.io/post-images/skoda-china-cj.jpg" class="attachment-full size-full wp-post-image" alt="SKODA CHINA Customer Journey" /></p>
-                    
-                    <p>In order to improve auto sales decline and low brand recognition in China, VW SKODA delegated Accenture to explore and optimize the experience of China Customer Journey.</p>
-
-                <p class="u-textAlignCenter"><a class="more-link" href="https://oopspatty.github.io/post/skoda-china-cj" title="SKODA CHINA Customer Journey">READ MORE</a></p>
-    </div>
-    <div class="block-footer">
-        In  <a href="https://oopspatty.github.io/tag/design-thinking" rel="category tag">Design Thinking</a>.   <a href="https://oopspatty.github.io/tag/Research" rel="category tag">Research</a>.   <a href="https://oopspatty.github.io/tag/life" rel="category tag">Designing Life</a>.  
-        <div class="block-footer-inner">
-                1 min read .
-        </div>
-    </div>
-</article>
-
-            <article class="block block--inset block--list">
-    <h2 class="block-title post-featured" itemprop="headline">
-        <a href="https://oopspatty.github.io/post/bjmtr">40 Days to Unlock Staff&#39;s Innovation Potential</a>
-    </h2>
-    <div class="block-postMetaWrap u-textAlignCenter">
-        <time>2019-04-30</time>
-    </div>
-    <div class="block-snippet block-snippet--subtitle grap" itemprop="about">
+        
             
-                    <p class="with-img"><img width="1139" height="759" src="https://oopspatty.github.io/post-images/bjmtr.jpg" class="attachment-full size-full wp-post-image" alt="40 Days to Unlock Staff&#39;s Innovation Potential" /></p>
-                    
-                    <p>As a leading service provider of urban rail transit in China, the Beijing Mass Transit Railway looks for new approaches that would make the internal operation and task management more agile, creative and innovative in its digital transformation. Thus, the client selected Accenture Greater China to rapidly innovate disruptive and digital services on maintenance management for front-stage staff using Design Thinking and a lean start-up approach.</p>
-
-                <p class="u-textAlignCenter"><a class="more-link" href="https://oopspatty.github.io/post/bjmtr" title="40 Days to Unlock Staff&#39;s Innovation Potential">READ MORE</a></p>
-    </div>
-    <div class="block-footer">
-        In  <a href="https://oopspatty.github.io/tag/MyDesign" rel="category tag">Patty&#39;s Design</a>.   <a href="https://oopspatty.github.io/tag/design-thinking" rel="category tag">Design Thinking</a>.   <a href="https://oopspatty.github.io/tag/Research" rel="category tag">Research</a>.  
-        <div class="block-footer-inner">
-                4 min read .
-        </div>
-    </div>
-</article>
-
-            <article class="block block--inset block--list">
-    <h2 class="block-title post-featured" itemprop="headline">
-        <a href="https://oopspatty.github.io/post/Be-with-you">Digital illustration - Be with you</a>
-    </h2>
-    <div class="block-postMetaWrap u-textAlignCenter">
-        <time>2018-06-27</time>
-    </div>
-    <div class="block-snippet block-snippet--subtitle grap" itemprop="about">
+        
             
-                    <p class="with-img"><img width="1139" height="759" src="https://oopspatty.github.io/post-images/Be-with-you.JPG" class="attachment-full size-full wp-post-image" alt="Digital illustration - Be with you" /></p>
-                    
-                    <p>Using digital illustration to record the nature of moment among the relationships for my surrounding loved ones. The theme of this collection is <strong>Be with You</strong>.</p>
-
-                <p class="u-textAlignCenter"><a class="more-link" href="https://oopspatty.github.io/post/Be-with-you" title="Digital illustration - Be with you">READ MORE</a></p>
-    </div>
-    <div class="block-footer">
-        In  <a href="https://oopspatty.github.io/tag/illustration" rel="category tag">illustration</a>.   <a href="https://oopspatty.github.io/tag/MyDesign" rel="category tag">Patty&#39;s Design</a>.  
-        <div class="block-footer-inner">
-                1 min read .
-        </div>
-    </div>
-</article>
-
-            <article class="block block--inset block--list">
-    <h2 class="block-title post-featured" itemprop="headline">
-        <a href="https://oopspatty.github.io/post/storypot">StoryPot - Road to Know Alzheimer&#39;s Disease</a>
-    </h2>
-    <div class="block-postMetaWrap u-textAlignCenter">
-        <time>2018-06-12</time>
-    </div>
-    <div class="block-snippet block-snippet--subtitle grap" itemprop="about">
+        
             
-                    <p class="with-img"><img width="1139" height="759" src="https://oopspatty.github.io/post-images/storypot.png" class="attachment-full size-full wp-post-image" alt="StoryPot - Road to Know Alzheimer&#39;s Disease" /></p>
-                    
-                    <p>This is a personal project supporting my graduate thesis - Research on current public perception of Alzheimer’s disease among Chinese young generations. The research was proudly to be appreciated by Alzheimer's Association, Greater Cincinnati Chapter.</p>
-
-                <p class="u-textAlignCenter"><a class="more-link" href="https://oopspatty.github.io/post/storypot" title="StoryPot - Road to Know Alzheimer&#39;s Disease">READ MORE</a></p>
-    </div>
-    <div class="block-footer">
-        In  <a href="https://oopspatty.github.io/tag/MyDesign" rel="category tag">Patty&#39;s Design</a>.   <a href="https://oopspatty.github.io/tag/design-thinking" rel="category tag">Design Thinking</a>.   <a href="https://oopspatty.github.io/tag/Research" rel="category tag">Research</a>.  
-        <div class="block-footer-inner">
-                5 min read .
-        </div>
-    </div>
-</article>
-
-            <article class="block block--inset block--list">
-    <h2 class="block-title post-featured" itemprop="headline">
-        <a href="https://oopspatty.github.io/post/goblin-app">Goblin App - Your Mood Recorder &amp; Guidance</a>
-    </h2>
-    <div class="block-postMetaWrap u-textAlignCenter">
-        <time>2017-12-08</time>
-    </div>
-    <div class="block-snippet block-snippet--subtitle grap" itemprop="about">
+        
             
-                    <p class="with-img"><img width="1139" height="759" src="https://oopspatty.github.io/post-images/goblin-app.png" class="attachment-full size-full wp-post-image" alt="Goblin App - Your Mood Recorder &amp; Guidance" /></p>
-                    
-                    
-                <p class="u-textAlignCenter"><a class="more-link" href="https://oopspatty.github.io/post/goblin-app" title="Goblin App - Your Mood Recorder &amp; Guidance">READ MORE</a></p>
+        
     </div>
-    <div class="block-footer">
-        In  <a href="https://oopspatty.github.io/tag/MyDesign" rel="category tag">Patty&#39;s Design</a>.  
-        <div class="block-footer-inner">
-                0 min read .
-        </div>
-    </div>
-</article>
+    ©2016-2020 All rights reserved by Tiaoling Wang. 
+Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a> | <a href="https://oopspatty.github.io/atom.xml" target="_blank">RSS</a>
+</div>
 
-            <article class="block block--inset block--list">
-    <h2 class="block-title post-featured" itemprop="headline">
-        <a href="https://oopspatty.github.io/post/internship">Self-reflection from my Internship</a>
-    </h2>
-    <div class="block-postMetaWrap u-textAlignCenter">
-        <time>2017-08-30</time>
-    </div>
-    <div class="block-snippet block-snippet--subtitle grap" itemprop="about">
-            
-                    
-                <p class="u-textAlignCenter"><a class="more-link" href="https://oopspatty.github.io/post/internship" title="Self-reflection from my Internship">READ MORE</a></p>
-    </div>
-    <div class="block-footer">
-        In  <a href="https://oopspatty.github.io/tag/journal" rel="category tag">Journal</a>.   <a href="https://oopspatty.github.io/tag/reflection" rel="category tag">Reflection</a>.   <a href="https://oopspatty.github.io/tag/life" rel="category tag">Designing Life</a>.  
-        <div class="block-footer-inner">
-                7 min read .
-        </div>
-    </div>
-</article>
-
-            <article class="block block--inset block--list">
-    <h2 class="block-title post-featured" itemprop="headline">
-        <a href="https://oopspatty.github.io/post/kenwood">Kenwood - System Design for Senior Living Facility</a>
-    </h2>
-    <div class="block-postMetaWrap u-textAlignCenter">
-        <time>2017-08-11</time>
-    </div>
-    <div class="block-snippet block-snippet--subtitle grap" itemprop="about">
-            
-                    
-                <p class="u-textAlignCenter"><a class="more-link" href="https://oopspatty.github.io/post/kenwood" title="Kenwood - System Design for Senior Living Facility">READ MORE</a></p>
-    </div>
-    <div class="block-footer">
-        In  <a href="https://oopspatty.github.io/tag/MyDesign" rel="category tag">Patty&#39;s Design</a>.   <a href="https://oopspatty.github.io/tag/design-thinking" rel="category tag">Design Thinking</a>.   <a href="https://oopspatty.github.io/tag/Research" rel="category tag">Research</a>.  
-        <div class="block-footer-inner">
-                4 min read .
-        </div>
-    </div>
-</article>
-
-</section>
-
-        <nav class="posts-nav u-textAlignCenter">
-            <button href="https://oopspatty.github.io/page/2" class="button button--primary" >点击查看更多</button>   
-            </nav>
-             
-    </main>
-</div></div>
-<script type="text/javascript">
-//点击加载更多
-jQuery(document).ready(function($) {
-    //点击下一页的链接(即那个a标签)
-    $(' .button').click(function() {
-        $this = $(this);
-        $this.addClass('loading').text('正在努力加载'); //给a标签加载一个loading的class属性，用来添加加载效果
-        var href = $this.attr('href'); //获取下一页的链接地址
-        if (href != undefined) { //如果地址存在
-            $.ajax({ //发起ajax请求
-                url: href,
-                //请求的地址就是下一页的链接
-                type: 'get',
-                //请求类型是get
-                error: function(request) {
-                    //如果发生错误怎么处理
-                },
-                success: function(data) { //请求成功
-                    $this.removeClass('loading').text('点击查看更多'); //移除loading属性
-                    var $res = $(data).find('.block--list '); //从数据中挑出文章数据，请根据实际情况更改
-                    $('.blockGroup').append($res.fadeIn(500)); //将数据加载加进posts-loop的标签中。
-                    var newhref = $(data).find(' .button').attr('href'); //找出新的下一页链接
-                    if (newhref != undefined) {
-                        $('.button').attr('href', newhref);
-                    } else {
-                        $('.button').remove(); //如果没有下一页了，隐藏
-                    }
-                }
-            });
-        }
-        return false;
-    });
-});
+<script>
+    hljs.initHighlightingOnLoad()
 </script>
-	<footer class="site-footer u-textAlignCenter">
-    	<div class="footer-branding">
-            <a href="https://oopspatty.github.io" title="Patty&#39;s Portfolio">Patty&#39;s Portfolio</a>
-									<p class="site-description">Always keep my faith.</p>
-			         </div>
-		 <hr />
-		 <div class="social-links">
-		                       
-                            
-                           
-                            
-                           
-                            
-                           
-                            
-                           
-                            
-                           
-                            	
-			<span class="social-link"><a href="https://www.linkedin.com/in/patty-tiaoling-wang/" target="_blank"><i class="iconfont icon-linkedin"></i></a></span>	
-			                         
-                           
-                            
-                           
-                            
-                           
-                            	
-			<span class="social-link"><a href="https://www.instagram.com/oopspatty/" target="_blank"><i class="iconfont icon-instagram"></i></a></span>	
-			                         
-                           
-                            
-                           
-                            
-                           
-                            
-                           
-				</div>
-        <div class="footer-copy">
-                ©2016-2020 All rights reserved by Tiaoling Wang. 
-Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a>
-        </div>
 
-    </footer>
-	<div class="back-to-top u-hide" onclick="backToTop();"><i class="iconfont icon-xiangshang"></i></div>
-
-<script type='text/javascript' src='https://oopspatty.github.io/media/scripts/main.js'></script>
+    </div>
+</div>
 </body>
 </html>

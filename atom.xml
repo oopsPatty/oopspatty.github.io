@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://oopspatty.github.io</id>
     <title>Patty&apos;s Portfolio</title>
-    <updated>2020-03-04T13:23:47.679Z</updated>
+    <updated>2020-03-04T14:00:37.940Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://oopspatty.github.io"/>
     <link rel="self" href="https://oopspatty.github.io/atom.xml"/>
@@ -17,9 +17,9 @@
         <link href="https://oopspatty.github.io/post/skoda-china-cj">
         </link>
         <updated>2019-08-28T07:33:19.000Z</updated>
-        <summary type="html"><![CDATA[<p>In order to improve auto sales decline and low brand recognition in China, VW SKODA delegated Accenture to explore and optimize the experience of China Customer Journey.</p>
+        <summary type="html"><![CDATA[<p>In order to improve auto sales decline and low brand recognition in China, VW SAIC SKODA delegated Accenture to explore and optimize the experience of China Customer Journey.</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>In order to improve auto sales decline and low brand recognition in China, VW SKODA delegated Accenture to explore and optimize the experience of China Customer Journey.</p>
+        <content type="html"><![CDATA[<p>In order to improve auto sales decline and low brand recognition in China, VW SAIC SKODA delegated Accenture to explore and optimize the experience of China Customer Journey.</p>
 <!-- more -->
 <figure data-type="image" tabindex="1"><img src="https://oopspatty.github.io/post-images/1580194384355.png" alt="skoda-personas" loading="lazy"></figure>
 <p>Starting from customer-centric service, we defined several typical <strong>architypes</strong> via in-depth interview and research, and depicted corresponding <strong>customer journey AS-IS</strong> to reflect their experience, needs and expectations.</p>
@@ -31,24 +31,31 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[40 Days to Unlock Staff's Innovation Potential]]></title>
+        <title type="html"><![CDATA[40 Days to Unlock Staff's Potential of Innovation]]></title>
         <id>https://oopspatty.github.io/post/bjmtr</id>
         <link href="https://oopspatty.github.io/post/bjmtr">
         </link>
         <updated>2019-04-30T13:04:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>As a leading service provider of urban rail transit in China, the Beijing Mass Transit Railway looks for new approaches that would make the internal operation and task management more agile, creative and innovative in its digital transformation. Thus, the client selected Accenture Greater China to rapidly innovate disruptive and digital services on maintenance management for front-stage staff using Design Thinking and a lean start-up approach.</p>
+        <summary type="html"><![CDATA[<p>As a leading service provider of urban rail transit in China, the Beijing Mass Transit Railway looks  for new approaches that would make the internal operation and task management more agile, creative and innovative in its digital transformation.<br>
+<br></p>
+<blockquote>
+<p>Accenture is helping BJ-MTR build the relevant knowledge, skill set, and organizational structure to ideate, develop, and implement customer-relevant <strong>minimum lovable product</strong> in a short timeframe — or fail fast.</p>
+</blockquote>
 ]]></summary>
-        <content type="html"><![CDATA[<p>As a leading service provider of urban rail transit in China, the Beijing Mass Transit Railway looks for new approaches that would make the internal operation and task management more agile, creative and innovative in its digital transformation. Thus, the client selected Accenture Greater China to rapidly innovate disruptive and digital services on maintenance management for front-stage staff using Design Thinking and a lean start-up approach.</p>
+        <content type="html"><![CDATA[<p>As a leading service provider of urban rail transit in China, the Beijing Mass Transit Railway looks  for new approaches that would make the internal operation and task management more agile, creative and innovative in its digital transformation.<br>
+<br></p>
+<blockquote>
+<p>Accenture is helping BJ-MTR build the relevant knowledge, skill set, and organizational structure to ideate, develop, and implement customer-relevant <strong>minimum lovable product</strong> in a short timeframe — or fail fast.</p>
+</blockquote>
 <!-- more -->
 <figure data-type="image" tabindex="1"><img src="https://oopspatty.github.io/post-images/1579419653406.PNG" alt="Liquid Studio's Ambition" loading="lazy"></figure>
-<p>Accenture is helping BJ-MTR build the relevant knowledge, skill set, and organizational structure to ideate, develop, and implement customer-relevant <strong>minimum lovable product</strong> in a short timeframe — or fail fast.<br>
-<br></p>
+<br>
 <h1 id="chapter-1-understand-our-people-interviewworkshop">Chapter 1. Understand our people (Interview+Workshop)</h1>
 <br>
 <blockquote>
 <p><strong>If you want to curate corporate digitalization, you should know who are suppose to be motivated.</strong></p>
 </blockquote>
-<p>No matter an enterprise product or a consumer product, the behaviors of the end-users are the foremost to be understood. In this circumstance, the front-stage working staff are the ones we need to empathize.</p>
+<p>The client selected Accenture Greater China to rapidly innovate disruptive and digital services on maintenance management for front-stage staff using Design Thinking and a lean start-up approach. No matter an enterprise product or a consumer product, the behaviors of the end-users are the foremost to be understood. In this circumstance, the front-stage working staff are the ones we need to empathize.</p>
 <p>And of course, knowing better about the biz workflow. Accenture team conducted the interviews with different roles for the different workflows, for better understanding the people’s needs and motivations, and the business process As-Is as well.<br>
 <img src="https://oopspatty.github.io/post-images/1579421393861.JPG" alt="BJ-mtr-workshop-1" loading="lazy"><br>
 After getting first-hand information, Accenture organized a two-day Design Thinking Workshop, which involved the BJ-MTR people from Managing, Operation, IT and front-stage crew and the designers, scrum masters and tech experts from Accenture,  analyzing the pain-point, biz requirements, human needs, while potential technical innovation opportunities.<br>
@@ -80,8 +87,16 @@ In order to better simulate the prototype in an assumed scenarios, the ACN team 
         <link href="https://oopspatty.github.io/post/about">
         </link>
         <updated>2019-01-25T11:09:48.000Z</updated>
-        <content type="html"><![CDATA[<h2 id="nice-to-meet-you"><strong>Nice to meet you!</strong></h2>
+        <summary type="html"><![CDATA[<blockquote>
 <p>Welcome to my little bumbling world 😆</p>
+</blockquote>
+<h2 id="nice-to-meet-you"><strong>Nice to meet you!</strong></h2>
+]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>Welcome to my little bumbling world 😆</p>
+</blockquote>
+<h2 id="nice-to-meet-you"><strong>Nice to meet you!</strong></h2>
+<!-- more -->
 <p>I am an <strong>empathy-driven experience design</strong> pilot, and currently diving into hi-tech realm exploring the possibility of <strong>Artificial Intelligence</strong> to levitate the human's life and business at <a href="https://www.accenture.com/us-en/capability-rapid-application-development-studio">Accenture Shanghai Liquid Studio</a>. During my spare time, I love roaming around the world, seeking and capturing the little tiny beautiful things.</p>
 <p>Let's chat more if you share common interests and faith with me: patriciawangtl@gmail.com. Also you can find me via my <a href="https://www.linkedin.com/in/patty-tiaoling-wang/">LinkedIn</a>, <a href="https://www.behance.net/oopspatty">Behance</a> and <a href="http://www.instagram.com/oopspatty">Instagram</a> to see what I am moving forward.😆😆</p>
 <figure data-type="image" tabindex="1"><img src="https://oopspatty.github.io/post-images/1580201913320.png" alt="PattyImage" loading="lazy"></figure>
@@ -96,10 +111,7 @@ In order to better simulate the prototype in an assumed scenarios, the ACN team 
         <link href="https://oopspatty.github.io/post/Be-with-you">
         </link>
         <updated>2018-06-27T06:47:06.000Z</updated>
-        <summary type="html"><![CDATA[<p>Using digital illustration to record the nature of moment among the relationships for my surrounding loved ones. The theme of this collection is <strong>Be with You</strong>.</p>
-]]></summary>
         <content type="html"><![CDATA[<p>Using digital illustration to record the nature of moment among the relationships for my surrounding loved ones. The theme of this collection is <strong>Be with You</strong>.</p>
-<!-- more -->
 <p><img src="https://oopspatty.github.io/post-images/1579332024753.PNG" alt="" loading="lazy"><br>
 <img src="https://oopspatty.github.io/post-images/1579332032902.PNG" alt="" loading="lazy"><br>
 <img src="https://oopspatty.github.io/post-images/1579332039568.PNG" alt="" loading="lazy"><br>
@@ -114,9 +126,9 @@ In order to better simulate the prototype in an assumed scenarios, the ACN team 
         <link href="https://oopspatty.github.io/post/storypot">
         </link>
         <updated>2018-06-12T10:15:58.000Z</updated>
-        <summary type="html"><![CDATA[<p>This is a personal project supporting my graduate thesis - Research on current public perception of Alzheimer’s disease among Chinese young generations. The research was proudly to be appreciated by Alzheimer's Association, Greater Cincinnati Chapter.</p>
+        <summary type="html"><![CDATA[<p>This is a personal project supporting my graduate thesis - Research on current public perception of Alzheimer’s disease among Chinese young generations. The research was proudly to be appreciated by <strong>Alzheimer's Association, Greater Cincinnati Chapter</strong>.</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>This is a personal project supporting my graduate thesis - Research on current public perception of Alzheimer’s disease among Chinese young generations. The research was proudly to be appreciated by Alzheimer's Association, Greater Cincinnati Chapter.</p>
+        <content type="html"><![CDATA[<p>This is a personal project supporting my graduate thesis - Research on current public perception of Alzheimer’s disease among Chinese young generations. The research was proudly to be appreciated by <strong>Alzheimer's Association, Greater Cincinnati Chapter</strong>.</p>
 <!-- more -->
 <figure data-type="image" tabindex="1"><img src="https://oopspatty.github.io/post-images/1579451728046.png" alt="1-problem" loading="lazy"></figure>
 <hr>
@@ -205,7 +217,11 @@ It is a user backend to connect the people who are already/potentially affected 
         <link href="https://oopspatty.github.io/post/internship">
         </link>
         <updated>2017-08-30T14:47:33.000Z</updated>
-        <content type="html"><![CDATA[<p>In summer 2017, I had my internship at the design consultancy - <a href="https://livewellcollaborative.org/">Live Well Collaborative</a>. It was a splendid time with understanding and growing-up. Working with incredible and talented people, meeting collaborators of totally different backgrounds, I had a pleasure of learning, designing and crafting experience in a very complicated world. I worked with two distinctive client groups and was in charge of two projects — they were extremely different —</p>
+        <summary type="html"><![CDATA[<p>In summer 2017, I had my internship at the design agency - <a href="https://livewellcollaborative.org/">Live Well Collaborative</a>. It was a splendid time with understanding and growing-up. Working with incredible and talented people, meeting collaborators of totally different backgrounds, I had a pleasure  of learning, designing and crafting experience in a very complicated world.</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>In summer 2017, I had my internship at the design agency - <a href="https://livewellcollaborative.org/">Live Well Collaborative</a>. It was a splendid time with understanding and growing-up. Working with incredible and talented people, meeting collaborators of totally different backgrounds, I had a pleasure  of learning, designing and crafting experience in a very complicated world.</p>
+<!-- more -->
+<p>I worked with two distinctive client groups and was in charge of two projects — they were extremely different —</p>
 <ul>
 <li>
 <p>One was working with a local senior living facility, to redesign the emergency exit door context for residents with dementia there, which is a system design project, mostly on the basis of design thinking, and finally we came out a comprehensive and systematic solution.</p>
@@ -253,9 +269,13 @@ It is a user backend to connect the people who are already/potentially affected 
         <link href="https://oopspatty.github.io/post/kenwood">
         </link>
         <updated>2017-08-11T13:36:47.000Z</updated>
-        <content type="html"><![CDATA[<p>Now you are reading a system design story based on design thinking that I was interning in 2017 at <a href="http://livewellcollaborative.org">Live Well Collaborative</a>. Collaborated with a local senior living facility, The Kenwood by Senior Star, we were asked to redefine the emergency exit door environment for the independent-living senior residents with dementia.</p>
+        <summary type="html"><![CDATA[<p>The Kenwood by Senior Star is proud to serve as a valuable senior residential assisted living resource for all Cincinnati families. In  the second floor of care building lives movable demented residents.</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>The Kenwood by Senior Star is proud to serve as a valuable senior residential assisted living resource for all Cincinnati families. In  the second floor of care building lives movable demented residents.</p>
+<!-- more -->
+<p>Now you are reading a system design story based on design thinking that I was interning in 2017 at <a href="http://livewellcollaborative.org">Live Well Collaborative</a>. Collaborated with a local senior living facility, The Kenwood by Senior Star, we were asked to redefine the emergency exit door environment for the independent-living senior residents with dementia.</p>
 <figure data-type="image" tabindex="1"><a href="https://i.loli.net/2019/05/21/5ce402f35f9c380124.png"><img src="https://i.loli.net/2019/05/21/5ce402f35f9c380124.png" alt="Kenwood_floor_plan" loading="lazy"></a></figure>
-<p>The Kenwood by Senior Star is proud to serve as a valuable senior residential assisted living resource for all Cincinnati families. In the second floor of care building lives movable demented residents. Due to <strong>overworked staff</strong>, taking care of the demented residents becomes more challenged. Plus the <strong>complicated interior environment</strong>, that the residents with dementia tend to easily roam around and come through the emergency exit door lead <strong>potential risks</strong> on the innocent residents.</p>
+<p>Due to <strong>overworked staff</strong>, taking care of the demented residents becomes more challenged. Plus the <strong>complicated interior environment</strong>, that the residents with dementia tend to easily roam around and come through the emergency exit door lead <strong>potential risks</strong> on the innocent residents.</p>
 <br>
 <h1 id="research-strategy">RESEARCH STRATEGY</h1>
 <p>Start with benchmarking the existing products and services for demented persons, interviews with working staff and observation on residents were soon organized to understand what the problem is. A dementia-affected resident's journey was illustrated to envision where the needs lie and where the opportunities are located.</p>
